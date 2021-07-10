@@ -46,6 +46,7 @@ Skilled in problem solving based on deep process analitics.
   
   <a href="#"> material<img src="" alt=""></a>
   <a href="#"> bootstrap<img src="" alt=""></a>
+  <a href="#"> react<img src="" alt=""></a>
   
 </div>
 
