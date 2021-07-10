@@ -41,7 +41,7 @@ Skilled in problem solving based on deep process analitics.
   <a href="#"> react<img src="" alt=""></a>
   <a href="#"> drupal<img src="" alt=""></a>
   <a href="#"> wordpress<img src="" alt=""></a>
-  <a href="https://www.prestashop.com/"><img src="" alt"Prestashop e-commerce management system"></a>
+  <a href="https://www.prestashop.com/"> <img src="" alt="Prestashop e-commerce management system"></a>
   <a href="#"> moodle<img src="" alt=""></a>
   <a href="#"> suite crm<img src="" alt=""></a>
   
