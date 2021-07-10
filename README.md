@@ -13,10 +13,8 @@ Skilled in problem solving based on deep process analitics.
 
 ---
 
-### Askme for
+### Programming
 
-#### Tecnologies
-#### Languages
 <div >
   <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/language_c-programming.svg" alt="C programming language"></a>
   <a href="#"> vba<img src="" alt=""></a>
@@ -25,17 +23,29 @@ Skilled in problem solving based on deep process analitics.
   <a href="#"> R<img src="" alt=""></a>
   <a href="#"> mysql<img src="" alt=""></a>
   <a href="#"> markdown<img src="" alt=""></a>
+
+### web
+  
   <a href="#"> html<img src="" alt=""></a>
   <a href="#"> css<img src="" alt=""></a>
   <a href="#"> js<img src="" alt=""></a>
+  
+### tools
+  
   <a href="#"> git<img src="" alt=""></a>
   <a href="#"> github<img src="" alt=""></a>
+
+### cms, crm & lms
   <a href="#"> drupal<img src="" alt=""></a>
   <a href="#"> wordpress<img src="" alt=""></a>
   <a href="#"> moodle<img src="" alt=""></a>
   <a href="#"> suite crm<img src="" alt=""></a>
+
+### framework
+  
   <a href="#"> material<img src="" alt=""></a>
   <a href="#"> bootstrap<img src="" alt=""></a>
+  
 </div>
 
 #### Tools
