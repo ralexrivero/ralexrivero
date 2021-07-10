@@ -4,8 +4,9 @@ Experienced consultant and programmer adept in offering cutting edge engineering
 Skilled in problem solving based on deep process analitics.
 
 ### skills
-``Adaptability`` ``Continious learning`` ``comunication``  ``self care`` ``participative leadership`` ``innovation`` ``result orientation`` ``client vision`` ``resilent`` ``teamwork``
 
+``Adaptability`` ``Continious learning`` ``comunication``  ``self care`` ``participative leadership``
+``innovation`` ``result orientation`` ``client vision`` ``resilent`` ``teamwork``
 ---
 
 ### Askme for
