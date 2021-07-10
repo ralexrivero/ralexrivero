@@ -53,7 +53,7 @@ Skilled in problem solving based on deep process analitics.
 
 ![Ralex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralexrivero&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralexrivero&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralexrivero&layout=compact&hide=roff&theme=dark)
 
 ---
 
