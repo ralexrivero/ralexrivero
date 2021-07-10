@@ -6,7 +6,7 @@ Skilled in problem solving based on deep process analitics.
 ### skills
 ``Adaptability`` ``Continious learning`` ``comunication``  ``self care`` ``participative leadership`` ``innovation`` ``result orientation`` ``client vision`` ``resilent`` ``teamwork``
 
-### Conect with me
+---
 
 ### Askme for
 
@@ -26,6 +26,8 @@ Skilled in problem solving based on deep process analitics.
   <a href="#"> github<img src="" alt=""></a>
   <a href="#"> drupal<img src="" alt=""></a>
   <a href="#"> wordpress<img src="" alt=""></a>
+  <a href="#"> moodle<img src="" alt=""></a>
+  <a href="#"> suite crm<img src="" alt=""></a>
   <a href="#"> material<img src="" alt=""></a>
   <a href="#"> bootstrap<img src="" alt=""></a>
 </div>
