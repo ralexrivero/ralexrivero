@@ -1,6 +1,6 @@
 # <> about me </>
 
-Experienced consultant and programmer adept in offering cutting edge engineering solutions and efectively guiding developer teams. Bringing forth expertise in managing all aspects of software deveolopment life cycle.
+Experienced consultant and full stack programmer adept in offering cutting edge engineering solutions and efectively guiding developer teams. Bringing forth expertise in managing all aspects of software deveolopment life cycle.
 Skilled in problem solving based on deep process analitics.
 
 ### skills
