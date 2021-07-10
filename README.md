@@ -23,7 +23,7 @@ Skilled in problem solving based on deep process analitics.
   <a href="https://www.r-project.org/"><img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/Rlogo.svg" alt="R Project for Statistical Computing"></a>
   <a href="#"> mysql<img src="" alt=""></a>
   <a href="#"> markdown<img src="" alt=""></a>
-  <a href="#"> html<img src="" alt=""></a>
+  <a href="https://html.spec.whatwg.org/multipage/"> html<img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/HTML5%20Logo%20Badge.svg" alt="HTML5"></a>
   <a href="#"> css<img src="" alt=""></a>
   <a href="#"> js<img src="" alt=""></a>
   
@@ -41,6 +41,7 @@ Skilled in problem solving based on deep process analitics.
   <a href="#"> react<img src="" alt=""></a>
   <a href="#"> drupal<img src="" alt=""></a>
   <a href="#"> wordpress<img src="" alt=""></a>
+  <a href="https://www.prestashop.com/"><img src="" alt"Prestashop e-commerce management system"></a>
   <a href="#"> moodle<img src="" alt=""></a>
   <a href="#"> suite crm<img src="" alt=""></a>
   
