@@ -34,6 +34,7 @@ Skilled in problem solving based on deep process analitics.
   
   <a href="#"> git<img src="" alt=""></a>
   <a href="#"> github<img src="" alt=""></a>
+  <a href="#"> bash<img src="" alt=""></a>
 
 ### cms, crm & lms
   <a href="#"> drupal<img src="" alt=""></a>
