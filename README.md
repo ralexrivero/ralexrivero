@@ -19,11 +19,12 @@ Skilled in problem solving based on deep process analitics.
 #### Languages
 <div >
   <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/language_c-programming.svg" alt="C programming language"></a>
-  <a href="#"> vba<img src="" alt="Visual basic for applications"></a>
-  <a href="#"> sql<img src="" alt="Structured query language"></a>
+  <a href="#"> vba<img src="" alt=""></a>
+  <a href="#"> sql<img src="" alt=""></a>
   <a href="#"> python<img src="" alt=""></a>
   <a href="#"> R<img src="" alt=""></a>
   <a href="#"> mysql<img src="" alt=""></a>
+  <a href="#"> markdown<img src="" alt=""></a>
   <a href="#"> html<img src="" alt=""></a>
   <a href="#"> css<img src="" alt=""></a>
   <a href="#"> js<img src="" alt=""></a>
