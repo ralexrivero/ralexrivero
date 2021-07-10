@@ -16,11 +16,11 @@ Skilled in problem solving based on deep process analitics.
 ### Programming and scripting
 
 <div >
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/language_c-programming.svg" alt="C Low level programming language"></a>
+  <a href="https://www.cprogramming.com/"><img with="24px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/language_c-programming.svg" alt="C Low level programming language"></a>
   <a href="#"> vba<img src="" alt=""></a>
   <a href="#"> sql<img src="" alt=""></a>
   <a href="#"> python<img src="" alt=""></a>
-  <a href="https://www.r-project.org/"><img src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/Rlogo.svg" alt="R Project for Statistical Computing"></a>
+  <a href="https://www.r-project.org/"><img with="24px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/Rlogo.svg" alt="R Project for Statistical Computing"></a>
   <a href="#"> mysql<img src="" alt=""></a>
   <a href="#"> markdown<img src="" alt=""></a>
   <a href="#"> html<img src="" alt=""></a>
