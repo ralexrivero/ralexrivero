@@ -1,9 +1,10 @@
 # <> about me in code </>
 
+Experienced consultant and programmer adept in offering cutting edge engineering solutions and efectively guiding developer teams. Bringing forth expertise in managing all aspects of software deveolopment life cycle.
+Skilled in problem solving based on deep process analitics.
 
-### Hard skills
-
-### Soft skills
+### skills
+``Adaptability`` ``Continious learning`` ``comunication``  ``self care`` ``participative leadership`` ``innovation`` ``result orientation`` ``client vision`` ``resilent`` ``teamwork``
 
 ### Conect with me
 
@@ -13,6 +14,20 @@
 #### Languages
 <div >
   <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/language_c-programming.svg" alt="C programming language"></a>
+  <a href="#"> vba<img src="" alt="Visual basic for applications"></a>
+  <a href="#"> sql<img src="" alt="Structured query language"></a>
+  <a href="#"> python<img src="" alt=""></a>
+  <a href="#"> R<img src="" alt=""></a>
+  <a href="#"> mysql<img src="" alt=""></a>
+  <a href="#"> html<img src="" alt=""></a>
+  <a href="#"> css<img src="" alt=""></a>
+  <a href="#"> js<img src="" alt=""></a>
+  <a href="#"> git<img src="" alt=""></a>
+  <a href="#"> github<img src="" alt=""></a>
+  <a href="#"> drupal<img src="" alt=""></a>
+  <a href="#"> wordpress<img src="" alt=""></a>
+  <a href="#"> material<img src="" alt=""></a>
+  <a href="#"> bootstrap<img src="" alt=""></a>
 </div>
 
 #### Tools
