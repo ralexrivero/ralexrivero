@@ -29,7 +29,7 @@ Skilled in problem solving based on deep process analitics.
   <a href="#"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/jquery.svg" alt="jquery"></a>
 ### tools
   
-  <a href="#"> <img width="32px"src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/git.svg" alt="git distributed version control system"></a>
+  <a href="#"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/git.svg" alt="git distributed version control system"></a>
   <a href="#"> github<img width="32px" src="" alt=""></a>
   <a href="#"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/terminal.svg" alt="terminal"></a>
   <a href="#"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/mysql.svg" alt="mysql"></a>
