@@ -16,37 +16,37 @@ Skilled in problem solving based on deep process analitics.
 ### Programming and scripting
 
 <div >
-  <a href="https://www.cprogramming.com/"><img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/language_c-programming.svg" alt="C Low level programming language"></a>
-  <a href="#"> vba<img width="32px" src="" alt=""></a>
-  <a href="#"> sql<img width="32px" src="" alt=""></a>
-  <a href="#"> python<img width="32px" src="" alt=""></a>
-  <a href="https://www.r-project.org/"><img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/Rlogo.svg" alt="R Project for Statistical Computing"></a>
-  <a href="#"> markdown<img width="32px" src="" alt=""></a>
-  <a href="https://html.spec.whatwg.org/multipage/"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/HTML5%20Logo%20Badge.svg" alt="HTML5"></a>
-  <a href="#"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/css3.svg" alt="CSS3"></a>
-  <a href="#"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/javascript.svg" alt="javascript"></a>
-  <a href="#"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/jquery.svg" alt="jquery"></a>
-  <a href="#"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/php.svg" alt="php"></a>
- 
+  <a href="https://www.cprogramming.com/" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/language_c-programming.svg" alt="C Low level programming language"></a>
+  <a href="https://www.python.org" target="_blank"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/python-logo-inkscape.svg" alt=""></a>
+  <a href="https://www.r-project.org/" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/Rlogo.svg" alt="R Project for Statistical Computing"></a>
+  <a href="https://html.spec.whatwg.org/multipage/" target="_blank"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/HTML5%20Logo%20Badge.svg" alt="HTML5"></a>
+  <a href="#" target="_blank"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/css3.svg" alt="CSS3"></a>
+< a href="#" target="_blank"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/javascript.svg" alt="javascript"></a>
+  <a href="#" target="_blank"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/jquery.svg" alt="jquery"></a>
+  <a href="#" target="_blank"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/php.svg" alt="php"></a>
+  <a href="#" target="_blank"> vba<img width="32px" src="" alt=""></a>
+  <a href="#" target="_blank"> sql<img width="32px" src="" alt=""></a>
+  <a href="#" target="_blank"> markdown<img width="32px" src="" alt=""></a>
+  
+  
 ### tools
   
-  <a href="#"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/git.svg" alt="git distributed version control system"></a>
-  <a href="#"> github<img width="32px" src="" alt=""></a>
-  <a href="#"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/terminal.svg" alt="terminal"></a>
-  <a href="#"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/mysql.svg" alt="mysql"></a>
+  <a href="#" target="_blank"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/git.svg" alt="git distributed version control system"></a>
+  <a href="https://github.com" target="_blank"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/github.svg" alt="Github"></a>
+  <a href="#" target="_blank"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/terminal.svg" alt="terminal"></a>
+  <a href="#" target="_blank"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/mysql.svg" alt="mysql"></a>
 
 
 ### frameworks and CMS
   
-  <a href="#"> material<img src="" alt=""></a>
-  <a href="#"> bootstrap<img src="" alt=""></a>
-  <a href="#"> react<img src="" alt=""></a>
-  <a href="#"> drupal<img src="" alt=""></a>
-  <a href="#"> wordpress<img src="" alt=""></a>
-  <a href="https://www.prestashop.com/"> <img src="" alt="Prestashop e-commerce management system"></a>
-  <a href="#"> moodle<img src="" alt=""></a>
-  <a href="#"> suite crm<img src="" alt=""></a>
-  
+  <a href="#" target="_blank"> material<img src="" alt=""></a>
+  <a href="#" target="_blank"> bootstrap<img src="" alt=""></a>
+  <a href="#" target="_blank"> react<img src="" alt=""></a>
+  <a href="#" target="_blank"> drupal<img src="" alt=""></a>
+  <a href="#" target="_blank"> wordpress<img src="" alt=""></a>
+  <a href="https://www.prestashop.com/" target="_blank"> <img src="" alt="Prestashop e-commerce management system"></a>
+  <a href="#" target="_blank"> moodle<img src="" alt=""></a>
+  <a href="#" target="_blank"> suite crm<img src="" alt=""></a>
 </div>
 
 ---
