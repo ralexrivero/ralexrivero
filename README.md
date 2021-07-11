@@ -16,37 +16,37 @@ Skilled in problem solving based on deep process analitics.
 ### Programming and scripting
 
 <div >
-  <a href="https://www.cprogramming.com/" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/language_c-programming.svg" alt="C Low level programming language"></a>
-  <a href="https://www.python.org" target="_blank"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/python-logo-inkscape.svg" alt=""></a>
-  <a href="https://www.r-project.org/" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/Rlogo.svg" alt="R Project for Statistical Computing"></a>
-  <a href="https://html.spec.whatwg.org/multipage/" target="_blank"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/HTML5%20Logo%20Badge.svg" alt="HTML5"></a>
-  <a href="#" target="_blank"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/css3.svg" alt="CSS3"></a>
-  <a href="#" target="_blank"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/javascript.svg" alt="javascript"></a>
-  <a href="#" target="_blank"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/jquery.svg" alt="jquery"></a>
-  <a href="#" target="_blank"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/php.svg" alt="php"></a>
-  <a href="#" target="_blank"> vba<img width="32px" src="" alt=""></a>
-  <a href="#" target="_blank"> sql<img width="32px" src="" alt=""></a>
-  <a href="#" target="_blank"> markdown<img width="32px" src="" alt=""></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/language_c-programming.svg" alt="C Low level programming language"></a>
+  <a href="https://www.python.org" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/python-logo-inkscape.svg" alt=""></a>
+  <a href="https://www.r-project.org/" target="_blank"><img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/Rlogo.svg" alt="R Project for Statistical Computing"></a>
+  <a href="https://html.spec.whatwg.org/multipage/" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/HTML5%20Logo%20Badge.svg" alt="HTML5"></a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/css3.svg" alt="CSS3"></a>
+  <a href="https://www.javascript.com/" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/javascript.svg" alt="javascript"></a>
+  <a href="https://jquery.com/" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/jquery.svg" alt="jquery"></a>
+  <a href="https://www.php.net/" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/php.svg" alt="php"></a>
+  <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank"> <img height="32px" src="" alt="VBA Visual Basic for Applications"></a>
+  <a href="#" target="_blank"> <img height="32px" src="" alt="sql structured query language"></a>
+  <a href="#" target="_blank"> <img height="32px" src="" alt="Markdown language"></a>
   
   
 ### tools
   
-  <a href="#" target="_blank"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/git.svg" alt="git distributed version control system"></a>
-  <a href="https://github.com" target="_blank"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/github.svg" alt="Github"></a>
-  <a href="#" target="_blank"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/terminal.svg" alt="terminal"></a>
-  <a href="#" target="_blank"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/mysql.svg" alt="mysql"></a>
+  <a href="https://git-scm.com/" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/git.svg" alt="git distributed version control system"></a>
+  <a href="https://github.com" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/github-icon.svg" alt="Github"></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/terminal.svg" alt="terminal"></a>
+  <a href="https://www.mysql.com/" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/mysql.svg" alt="mysql"></a>
 
 
 ### frameworks and CMS
   
-  <a href="#" target="_blank"> material<img src="" alt=""></a>
-  <a href="#" target="_blank"> bootstrap<img src="" alt=""></a>
-  <a href="#" target="_blank"> react<img src="" alt=""></a>
-  <a href="#" target="_blank"> drupal<img src="" alt=""></a>
-  <a href="#" target="_blank"> wordpress<img src="" alt=""></a>
+  <a href="#" target="_blank"> <img src="" alt="Material design"></a>
+  <a href="#" target="_blank"> <img src="" alt="Bootstrap"></a>
+  <a href="#" target="_blank"> <img src="" alt="React"></a>
+  <a href="#" target="_blank"> <img src="" alt="Drupal CMS"></a>
+  <a href="#" target="_blank"> <img src="" alt="WordPress CMS"></a>
   <a href="https://www.prestashop.com/" target="_blank"> <img src="" alt="Prestashop e-commerce management system"></a>
-  <a href="#" target="_blank"> moodle<img src="" alt=""></a>
-  <a href="#" target="_blank"> suite crm<img src="" alt=""></a>
+  <a href="#" target="_blank"> <img src="" alt="Moodle LMS"></a>
+  <a href="#" target="_blank"> <img src="" alt="Suite CRM"></a>
 </div>
 
 ---
