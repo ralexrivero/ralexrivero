@@ -17,21 +17,22 @@ Skilled in problem solving based on deep process analitics.
 
 <div >
   <a href="https://www.cprogramming.com/"><img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/language_c-programming.svg" alt="C Low level programming language"></a>
-  <a href="#"> vba<img src="" alt=""></a>
-  <a href="#"> sql<img src="" alt=""></a>
-  <a href="#"> python<img src="" alt=""></a>
+  <a href="#"> vba<img width="32px" src="" alt=""></a>
+  <a href="#"> sql<img width="32px" src="" alt=""></a>
+  <a href="#"> python<img width="32px" src="" alt=""></a>
   <a href="https://www.r-project.org/"><img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/Rlogo.svg" alt="R Project for Statistical Computing"></a>
-  <a href="#"> mysql<img src="" alt=""></a>
-  <a href="#"> markdown<img src="" alt=""></a>
-  <a href="https://html.spec.whatwg.org/multipage/"> html<img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/HTML5%20Logo%20Badge.svg" alt="HTML5"></a>
-  <a href="#"> css<img src="" alt=""></a>
-  <a href="#"> js<img src="" alt=""></a>
-  
+  <a href="#"> markdown<img width="32px" src="" alt=""></a>
+  <a href="https://html.spec.whatwg.org/multipage/"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/HTML5%20Logo%20Badge.svg" alt="HTML5"></a>
+  <a href="#"> css<img width="32px" src="" alt=""></a>
+  <a href="#"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/php.svg" alt="php"></a>
+  <a href="#"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/javascript.svg" alt="javascript"></a>
+  <a href="#"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/jquery.svg" alt="jquery"></a>
 ### tools
   
-  <a href="#"> git<img src="" alt=""></a>
-  <a href="#"> github<img src="" alt=""></a>
-  <a href="#"> bash<img src="" alt=""></a>
+  <a href="#"> <img width="32px"src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/git.svg" alt="git distributed version control system"></a>
+  <a href="#"> github<img width="32px" src="" alt=""></a>
+  <a href="#"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/terminal.svg" alt="terminal"></a>
+  <a href="#"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/mysql.svg" alt="mysql"></a>
 
 
 ### frameworks and CMS
