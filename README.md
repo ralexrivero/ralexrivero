@@ -23,7 +23,7 @@ Skilled in problem solving based on deep process analitics.
   <a href="https://www.r-project.org/"><img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/Rlogo.svg" alt="R Project for Statistical Computing"></a>
   <a href="#"> markdown<img width="32px" src="" alt=""></a>
   <a href="https://html.spec.whatwg.org/multipage/"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/HTML5%20Logo%20Badge.svg" alt="HTML5"></a>
-  <a href="#"> css<img width="32px" src="" alt=""></a>
+  <a href="#"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/css3.svg" alt="CSS3"></a>
   <a href="#"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/php.svg" alt="php"></a>
   <a href="#"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/javascript.svg" alt="javascript"></a>
   <a href="#"> <img width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/jquery.svg" alt="jquery"></a>
