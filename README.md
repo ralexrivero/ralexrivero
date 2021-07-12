@@ -17,16 +17,17 @@ Skilled in problem solving based on deep process analitics.
 
 <div >
   <a href="https://www.cprogramming.com/" target="_blank"><img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/language_c-programming.svg" alt="C Low level programming language"></a>
-  <a href="https://www.python.org" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/python-logo-inkscape.svg" alt=""></a>
+  <a href="https://www.python.org" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/python-logo-inkscape.svg" alt="python"></a>
   <a href="https://www.r-project.org/" target="_blank"><img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/Rlogo.svg" alt="R Project for Statistical Computing"></a>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/HTML5%20Logo%20Badge.svg" alt="HTML5"></a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/css3.svg" alt="CSS3"></a>
   <a href="https://www.javascript.com/" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/javascript.svg" alt="javascript"></a>
   <a href="https://jquery.com/" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/jquery.svg" alt="jquery"></a>
   <a href="https://www.php.net/" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/php.svg" alt="php"></a>
+  <a href="#" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/Octicons-markdown.svg" alt="Markdown language"></a>
   <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank"> <img height="32px" src="" alt="VBA Visual Basic for Applications"></a>
-  <a href="#" target="_blank"> <img height="32px" src="" alt="sql structured query language"></a>
-  <a href="#" target="_blank"> <img height="32px" src="" alt="Markdown language"></a>
+  <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> <img height="32px" src="" alt="sql structured query language"></a>
+
   
   
 ### tools
