@@ -2,6 +2,8 @@
 
 Experienced consultant and full stack programmer adept in offering cutting edge engineering solutions and efectively guiding developer teams. Bringing forth expertise in managing all aspects of software deveolopment life cycle.
 Skilled in problem solving based on deep process analitics.
+### Now Learning
+<a href="https://www.tensorflow.org/" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/tensorflow.svg" alt="TensorFlow automatic learning"></a>
 
 ### skills
 
@@ -27,7 +29,7 @@ Skilled in problem solving based on deep process analitics.
   <a href="#" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/Octicons-markdown.svg" alt="Markdown language"></a>
   <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank"> <img height="32px" src="" alt="VBA Visual Basic for Applications"></a>
   <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> <img height="32px" src="" alt="sql structured query language"></a>
-
+  
   
   
 ### tools
