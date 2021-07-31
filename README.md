@@ -54,19 +54,14 @@ Skilled in problem solving based on deep process analitics.
 
 ### 📈 My Github stats
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ralexrivero&theme=react-dark&custom_title=Contribution%20Graph">
+<p justify-content="center">
+ <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=ralexrivero&theme=react-dark&custom_title=Contribution%20Graph">
 </p> 
 
-<div align = "left">
-<img src=https://github-readme-stats.vercel.app/api?username=ralexrivero&show_icons=true&theme=dark&custom_title=Ronald%20's%20Github%20Profile>
-</div> 
-
-<p align = "left">
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=ralexrivero&layout=compact&hide=roff&theme=dark>
-</p> 
-
----
+<div align="justify">
+<img width="49%" src=https://github-readme-stats.vercel.app/api?username=ralexrivero&show_icons=true&theme=dark&custom_title=Ronald%20's%20Github%20Profile>
+<img width="49%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=ralexrivero&layout=compact&hide=roff&theme=dark&custom_title=Top%20languages>
+</div>
 
 ### Connect me! 
 
