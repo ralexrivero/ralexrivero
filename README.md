@@ -52,11 +52,19 @@ Skilled in problem solving based on deep process analitics.
   <a href="#" target="_blank"> <img src="" alt="Suite CRM"></a>
 </div>
 
----
+### 📈 My Github stats
 
-![Ralex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralexrivero&show_icons=true&theme=dark&custom_title=Ronald%20Alexander's%20Github%20Profile)
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=ralexrivero&theme=react-dark&custom_title=Contribution%20Graph">
+</p> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralexrivero&layout=compact&hide=roff&theme=dark)
+<div align = "left">
+<img src=https://github-readme-stats.vercel.app/api?username=ralexrivero&show_icons=true&theme=dark&custom_title=Ronald%20's%20Github%20Profile>
+</div> 
+
+<p align = "left">
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=ralexrivero&layout=compact&hide=roff&theme=dark>
+</p> 
 
 ---
 
