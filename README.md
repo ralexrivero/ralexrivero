@@ -15,7 +15,8 @@ Skilled in problem solving based on deep process analitics.
 
 ---
 
-### Programming and scripting
+### stack
+
 
 <div >
   <a href="https://www.cprogramming.com/" target="_blank"><img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/language_c-programming.svg" alt="C Low level programming language"></a>
@@ -71,3 +72,15 @@ Skilled in problem solving based on deep process analitics.
 <a href="https://www.linkedin.com/in/ronald-rivero/" target="_blank"> <img align="left" alt="Ronald Rivero | LinkedIn" height="24px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/linkedin-brands_blue.svg" /> </a>
 <a href="mailto:ralexrivero@gmail.com?subject=Contact" target="_blank"><img align="left" height="24" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/envelope-regular_blue.svg" alt="email me"> </a>
 <br>
+
+![Twitter Follow](https://img.shields.io/twitter/follow/ralex_uy?style=social)
+![GitHub followers](https://img.shields.io/github/followers/ralexrivero?style=social)
+
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="horizontal" data-theme="light" data-vanity="ronald-rivero"><a class="LI-simple-link" href='https://uy.linkedin.com/in/ronald-rivero?trk=profile-badge'>Ronald Alexander Rivero</a></div>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="horizontal" data-theme="dark" data-vanity="ronald-rivero"><a class="LI-simple-link" href='https://uy.linkedin.com/in/ronald-rivero?trk=profile-badge'>Ronald Alexander Rivero</a></div>
+
+
