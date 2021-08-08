@@ -57,11 +57,14 @@ Skilled in problem solving based on deep process analitics.
   <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> <img height="" src="" alt="sql structured query language"></a>
   
 ### tools
-  
-  <a href="https://git-scm.com/" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/git.svg" alt="git distributed version control system"></a>
-  <a href="https://github.com" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/github-icon.svg" alt="Github"></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/terminal.svg" alt="terminal"></a>
-  <a href="https://www.mysql.com/" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/mysql.svg" alt="mysql"></a>
+<!-- git -->
+  <a href="https://git-scm.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=Git&logoColor=F05032&labelColor=2F333A" alt="git distributed version control system"></a>
+<!-- github -->
+  <a href="https://github.com" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&logo=GitHub&logoColor=f2f2f2&labelColor=2F333A" alt="Github"></a>
+<!-- bash -->
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=GNU%20Bash&color=4EAA25&logo=GNU%20Bash&logoColor=4EAA25&labelColor=2F333A" alt="terminal"></a>
+<!-- mysql -->
+  <a href="https://www.mysql.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=MySQL&logoColor=4479A1&labelColor=2F333A" alt="mysql"></a>
 
 ### frameworks and CMS
   
