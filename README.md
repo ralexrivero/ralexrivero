@@ -1,14 +1,19 @@
+# me
+## myself
 <!-- about me -->
-I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas
-Experienced consultant and full stack programmer, really enthusiast and an open-source advocate. I am always looking to colaborate in project and innovative and creative ideas.
+I am a tech enthusiast, allways looking to collaborating on projects and innovative and disruptive ideas.
+
+Too a well experienced consultant and full stack programmer, really enthusiast and an open-source advocate.
 
 Adept in offering cutting edge engineering solutions and efectively guiding developer teams. Bringing forth expertise in managing all aspects of software deveolopment life cycle.
 Skilled in problem solving based on deep process analitics.
+
+Feel free to conect.
 <!-- social media -->
 <div>
-<a href="https://twitter.com/ralex_uy" target="_blank">  <img align="left" alt="Ronald Rivero | Twitter" src="https://img.shields.io/twitter/follow/ralex_uy?style=social" /> </a>
+<a href="https://twitter.com/ralex_uy" target="_blank">  <img align="left" alt="Ronald Rivero | Twitter" src="https://img.shields.io/twitter/follow/ralex_uy?style=social"/> </a>
 
-<a href="https://www.linkedin.com/in/ronald-rivero/" target="_blank">  <img align="left" alt="Ronald Rivero | LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin" /> </a>
+<a href="https://www.linkedin.com/in/ronald-rivero/" target="_blank">  <img align="left" alt="Ronald Rivero | LinkedIn" src="https://img.shields.io/badge/LinkedIn-+19K-blue?style=social&logo=linkedin"/> </a>
 
 <a href="https://github.com/ralexrivero/" target="_blank">  <img align="left" src="https://img.shields.io/github/followers/ralexrivero?style=social" alt="Ralex | Github"> </a>
 </br>
@@ -17,7 +22,9 @@ Skilled in problem solving based on deep process analitics.
 
 ### learning
 
+<div>
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.shields.io/static/v1?label=&message=TensorFlow&color=FF9500&logo=tensorflow&labelColor=2F333A" alt="TensorFlow automatic learning"></a>
+</div>
 
 ### skills
 <!-- skill badges -->
@@ -60,8 +67,11 @@ Skilled in problem solving based on deep process analitics.
   <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank"> <img height="32px" src="" alt="VBA Visual Basic for Applications"></a>
 <!-- sql -->
   <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> <img height="" src="" alt="sql structured query language"></a>
-  
+</div>
+
 ### tools
+
+<div>
 <!-- git -->
   <a href="https://git-scm.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=Git&logoColor=F05032&labelColor=2F333A" alt="git distributed version control system"></a>
 <!-- github -->
@@ -70,8 +80,11 @@ Skilled in problem solving based on deep process analitics.
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=GNU%20Bash&color=4EAA25&logo=GNU%20Bash&logoColor=4EAA25&labelColor=2F333A" alt="terminal"></a>
 <!-- mysql -->
   <a href="https://www.mysql.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=MySQL&logoColor=4479A1&labelColor=2F333A" alt="mysql"></a>
+</div>
 
 ### frameworks and CMS
+
+<div>
 <!-- material -->
   <a href="https://material.io/" target="_blank"> <img src="https://img.shields.io/static/v1?label=&message=Material%20Design&color=757575&logo=Material%20Design&logoColor=FFFFFF&labelColor=2F333A" alt="Material design"></a>
 <!-- bootstrap -->
@@ -88,9 +101,11 @@ Skilled in problem solving based on deep process analitics.
   <a href="#" target="_blank"> <img height="" src="" alt="Moodle LMS"></a>
 <!-- suite crm -->
   <a href="#" target="_blank"> <img height="" src="" alt="Suite CRM"></a>
+</div>
 
 ### IDE's
 
+<div>
 <!-- jupyter -->
   <a href="https://jupyter.org/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Jupyter&color=F37626&logo=Jupyter&logoColor=F37626&labelColor=2F333A" alt="Suite CRM"></a>
 <!-- colab -->
@@ -106,10 +121,4 @@ Skilled in problem solving based on deep process analitics.
 <div align="justify">
 <img width="49%" src=https://github-readme-stats.vercel.app/api?username=ralexrivero&show_icons=true&theme=dark&custom_title=Ronald%20's%20Github%20Profile>
 <img width="49%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=ralexrivero&layout=compact&hide=roff&theme=dark&custom_title=Top%20languages>
-</div>
-
-### Connect me!
-
-</br>
-
 </div>
