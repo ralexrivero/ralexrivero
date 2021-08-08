@@ -67,20 +67,15 @@ Skilled in problem solving based on deep process analitics.
 ### Connect me! 
 
 <br>
-<a href ="https://discord.gg/4QNsYMAa4t" target="_blank" rel="noreferrer noopener"> <img align="left" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/discord-brands_blue.svg" alt="Ronald Rivero | Discord" height="24px"> </a>
-<a href="https://twitter.com/ralex_uy" target="_blank"> <img align="left" alt="Ronald Rivero | Twitter" height="24px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/twitter-square-brands_blue.svg" /> </a>
-<a href="https://www.linkedin.com/in/ronald-rivero/" target="_blank"> <img align="left" alt="Ronald Rivero | LinkedIn" height="24px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/linkedin-brands_blue.svg" /> </a>
+<div>
+<a href="https://twitter.com/ralex_uy" target="_blank">  <img align="left" alt="Ronald Rivero | Twitter" src="https://img.shields.io/twitter/follow/ralex_uy?style=social" /> </a>
+
+<a href="https://www.linkedin.com/in/ronald-rivero/" target="_blank">  <img align="left" alt="Ronald Rivero | LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin" /> </a>
+
+<a href="https://github.com/ralexrivero/" target="_blank">  <img align="left" src="https://img.shields.io/github/followers/ralexrivero?style=social" alt="Ralex | Github"> </a>
+
+<br/>
 <a href="mailto:ralexrivero@gmail.com?subject=Contact" target="_blank"><img align="left" height="24" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/envelope-regular_blue.svg" alt="email me"> </a>
 <br>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/ralex_uy?style=social)
-![GitHub followers](https://img.shields.io/github/followers/ralexrivero?style=social)
-
-
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="horizontal" data-theme="light" data-vanity="ronald-rivero"><a class="LI-simple-link" href='https://uy.linkedin.com/in/ronald-rivero?trk=profile-badge'>Ronald Alexander Rivero</a></div>
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="horizontal" data-theme="dark" data-vanity="ronald-rivero"><a class="LI-simple-link" href='https://uy.linkedin.com/in/ronald-rivero?trk=profile-badge'>Ronald Alexander Rivero</a></div>
-
-
+</div>
