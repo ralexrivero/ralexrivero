@@ -21,11 +21,16 @@ Skilled in problem solving based on deep process analitics.
 
 ### skills
 <!-- skill badges -->
-``Adaptability`` ``Continious learning`` ``comunication``
-
-``self care`` ``participative leadership`` ``innovation``
-
-``result orientation`` ``client vision`` ``resilent`` ``teamwork``
+![soft skills](https://img.shields.io/badge/-Adaptability%20-lightgrey)
+![soft skills](https://img.shields.io/badge/-Continious%20learning%20-lightgrey)
+![soft skills](https://img.shields.io/badge/-comunication-lightgrey)
+![soft skills](https://img.shields.io/badge/-self%20care-lightgrey)
+![soft skills](https://img.shields.io/badge/-participative%20leadership-lightgrey)
+![soft skills](https://img.shields.io/badge/-innovation-lightgrey)
+![soft skills](https://img.shields.io/badge/-result%20orientation-lightgrey)
+![soft skills](https://img.shields.io/badge/-client%20vision-lightgrey)
+![soft skills](https://img.shields.io/badge/-resilent-lightgrey)
+![soft skills](https://img.shields.io/badge/-teamwork-lightgrey)
 
 ---
 <!-- my stack -->
@@ -83,6 +88,13 @@ Skilled in problem solving based on deep process analitics.
   <a href="#" target="_blank"> <img height="" src="" alt="Moodle LMS"></a>
 <!-- suite crm -->
   <a href="#" target="_blank"> <img height="" src="" alt="Suite CRM"></a>
+
+### IDE's
+
+<!-- jupyter -->
+  <a href="https://jupyter.org/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Jupyter&color=F37626&logo=Jupyter&logoColor=F37626&labelColor=2F333A" alt="Suite CRM"></a>
+<!-- colab -->
+<a href="https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Google%20Colab&color=F9AB00&logo=Google%20Colab&logoColor=F9AB00&labelColor=2F333A" alt="Suite CRM"></a>
 </div>
 
 ### 📈 My Github stats
