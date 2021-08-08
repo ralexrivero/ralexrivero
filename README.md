@@ -1,12 +1,25 @@
-# <> about me </>
+<!-- about me -->
+I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas
+Experienced consultant and full stack programmer, really enthusiast and an open-source advocate. I am always looking to colaborate in project and innovative and creative ideas.
 
-Experienced consultant and full stack programmer adept in offering cutting edge engineering solutions and efectively guiding developer teams. Bringing forth expertise in managing all aspects of software deveolopment life cycle.
+Adept in offering cutting edge engineering solutions and efectively guiding developer teams. Bringing forth expertise in managing all aspects of software deveolopment life cycle.
 Skilled in problem solving based on deep process analitics.
-### Now Learning
-<a href="https://www.tensorflow.org/" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/tensorflow.svg" alt="TensorFlow automatic learning"></a>
+<!-- social media -->
+<div>
+<a href="https://twitter.com/ralex_uy" target="_blank">  <img align="left" alt="Ronald Rivero | Twitter" src="https://img.shields.io/twitter/follow/ralex_uy?style=social" /> </a>
+
+<a href="https://www.linkedin.com/in/ronald-rivero/" target="_blank">  <img align="left" alt="Ronald Rivero | LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin" /> </a>
+
+<a href="https://github.com/ralexrivero/" target="_blank">  <img align="left" src="https://img.shields.io/github/followers/ralexrivero?style=social" alt="Ralex | Github"> </a>
+</br>
+</div>
+<!-- present -->
+### Learning
+
+<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.shields.io/static/v1?label=&message=TensorFlow&color=FF9500&logo=tensorflow&labelColor=2F333A" alt="TensorFlow automatic learning"></a>
 
 ### skills
-
+<!-- skill badges -->
 ``Adaptability`` ``Continious learning`` ``comunication``
 
 ``self care`` ``participative leadership`` ``innovation``
@@ -14,9 +27,8 @@ Skilled in problem solving based on deep process analitics.
 ``result orientation`` ``client vision`` ``resilent`` ``teamwork``
 
 ---
-
+<!-- my stack -->
 ### stack
-
 
 <div >
   <a href="https://www.cprogramming.com/" target="_blank"><img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/language_c-programming.svg" alt="C Low level programming language"></a>
@@ -67,15 +79,7 @@ Skilled in problem solving based on deep process analitics.
 ### Connect me! 
 
 <br>
-<div>
-<a href="https://twitter.com/ralex_uy" target="_blank">  <img align="left" alt="Ronald Rivero | Twitter" src="https://img.shields.io/twitter/follow/ralex_uy?style=social" /> </a>
 
-<a href="https://www.linkedin.com/in/ronald-rivero/" target="_blank">  <img align="left" alt="Ronald Rivero | LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin" /> </a>
 
-<a href="https://github.com/ralexrivero/" target="_blank">  <img align="left" src="https://img.shields.io/github/followers/ralexrivero?style=social" alt="Ralex | Github"> </a>
-
-<br/>
-<a href="mailto:ralexrivero@gmail.com?subject=Contact" target="_blank"><img align="left" height="24" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/envelope-regular_blue.svg" alt="email me"> </a>
-<br>
 
 </div>
