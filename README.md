@@ -14,6 +14,7 @@ Skilled in problem solving based on deep process analitics.
 </br>
 </div>
 <!-- present -->
+
 ### Learning
 
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.shields.io/static/v1?label=&message=TensorFlow&color=FF9500&logo=tensorflow&labelColor=2F333A" alt="TensorFlow automatic learning"></a>
@@ -28,22 +29,32 @@ Skilled in problem solving based on deep process analitics.
 
 ---
 <!-- my stack -->
+<!-- program languages -->
 ### stack
 
-<div >
-  <a href="https://www.cprogramming.com/" target="_blank"><img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/language_c-programming.svg" alt="C Low level programming language"></a>
-  <a href="https://www.python.org" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/python-logo-inkscape.svg" alt="python"></a>
-  <a href="https://www.r-project.org/" target="_blank"><img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/Rlogo.svg" alt="R Project for Statistical Computing"></a>
-  <a href="https://html.spec.whatwg.org/multipage/" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/HTML5%20Logo%20Badge.svg" alt="HTML5"></a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/css3.svg" alt="CSS3"></a>
-  <a href="https://www.javascript.com/" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/javascript.svg" alt="javascript"></a>
-  <a href="https://jquery.com/" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/jquery.svg" alt="jquery"></a>
-  <a href="https://www.php.net/" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/php.svg" alt="php"></a>
-  <a href="#" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/Octicons-markdown.svg" alt="Markdown language"></a>
+<div>
+<!-- c -->
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=C%20Language&color=5C6BC0&logo=c&logoColor=A8B9CC&labelColor=2F333A" alt="C Low level programming language"></a>
+<!-- python-->
+  <a href="https://www.python.org" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Python&color=FFD43B&logo=python&logoColor=3776AB&labelColor=2F333A" alt="python"></a>
+<!-- r -->
+  <a href="https://www.r-project.org/" target="_blank"><img height="" src="https://img.shields.io/static/v1?label=&message=R+Project&color=1E64B6&logo=r&logoColor=276DC3&labelColor=2F333A" alt="R Project for Statistical Computing"></a>
+<!--HTML5-->
+  <a href="https://html.spec.whatwg.org/multipage/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=HTML5&color=E85827&logo=HTML5&logoColor=E34F26&labelColor=2F333A" alt="HTML5"></a>
+<!-- CSS3 -->
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=CSS3&color=0071B5&logo=CSS3&logoColor=1572B6&labelColor=2F333A" alt="CSS3"></a>
+<!-- JS -->
+  <a href="https://www.javascript.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=JavaScript&color=D4B830&logo=JavaScript&logoColor=F7DF1E&labelColor=2F333A"></a>
+<!-- jquery -->
+  <a href="https://jquery.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=jQuery&color=21609B&logo=jQuery&logoColor=0769AD&labelColor=2F333A" alt="jquery"></a>
+<!-- php -->
+  <a href="https://www.php.net/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=PHP&color=777BB4&logo=PHP&logoColor=777BB4&labelColor=2F333A" alt="php"></a>
+<!-- Markdown -->
+  <a href="#" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Markdown&color=f4f4f4&logo=Markdown&logoColor=f2f2f2&labelColor=2F333A" alt="Markdown language"></a>
+<!-- VBA -->
   <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank"> <img height="32px" src="" alt="VBA Visual Basic for Applications"></a>
-  <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> <img height="32px" src="" alt="sql structured query language"></a>
-  
-  
+<!-- sql -->
+  <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> <img height="" src="" alt="sql structured query language"></a>
   
 ### tools
   
@@ -51,7 +62,6 @@ Skilled in problem solving based on deep process analitics.
   <a href="https://github.com" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/github-icon.svg" alt="Github"></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/terminal.svg" alt="terminal"></a>
   <a href="https://www.mysql.com/" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/mysql.svg" alt="mysql"></a>
-
 
 ### frameworks and CMS
   
@@ -76,10 +86,8 @@ Skilled in problem solving based on deep process analitics.
 <img width="49%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=ralexrivero&layout=compact&hide=roff&theme=dark&custom_title=Top%20languages>
 </div>
 
-### Connect me! 
+### Connect me!
 
-<br>
-
-
+</br>
 
 </div>
