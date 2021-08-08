@@ -15,7 +15,7 @@ Skilled in problem solving based on deep process analitics.
 </div>
 <!-- present -->
 
-### Learning
+### learning
 
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.shields.io/static/v1?label=&message=TensorFlow&color=FF9500&logo=tensorflow&labelColor=2F333A" alt="TensorFlow automatic learning"></a>
 
@@ -67,15 +67,22 @@ Skilled in problem solving based on deep process analitics.
   <a href="https://www.mysql.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=MySQL&logoColor=4479A1&labelColor=2F333A" alt="mysql"></a>
 
 ### frameworks and CMS
-  
-  <a href="#" target="_blank"> <img src="" alt="Material design"></a>
-  <a href="#" target="_blank"> <img src="" alt="Bootstrap"></a>
-  <a href="#" target="_blank"> <img src="" alt="React"></a>
-  <a href="#" target="_blank"> <img src="" alt="Drupal CMS"></a>
-  <a href="#" target="_blank"> <img src="" alt="WordPress CMS"></a>
-  <a href="https://www.prestashop.com/" target="_blank"> <img src="" alt="Prestashop e-commerce management system"></a>
-  <a href="#" target="_blank"> <img src="" alt="Moodle LMS"></a>
-  <a href="#" target="_blank"> <img src="" alt="Suite CRM"></a>
+<!-- material -->
+  <a href="https://material.io/" target="_blank"> <img src="https://img.shields.io/static/v1?label=&message=Material%20Design&color=757575&logo=Material%20Design&logoColor=FFFFFF&labelColor=2F333A" alt="Material design"></a>
+<!-- bootstrap -->
+  <a href="https://getbootstrap.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=7952B3&labelColor=2F333A" alt="Bootstrap"></a>
+<!-- react -->
+<!--  <a href="#" target="_blank"> <img height="" src="" alt="React"></a> -->
+<!-- drupal -->
+  <a href="https://www.drupal.org/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Drupal&color=0678BE&logo=Drupal&logoColor=0678BE&labelColor=2F333A" alt="Drupal CMS"></a>
+<!-- wordpress -->
+  <a href="https://wordpress.org/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=WordPress&color=21759B&logo=WordPress&logoColor=21759B&labelColor=2F333A" alt="WordPress CMS"></a>
+<!-- prestashop -->
+  <a href="https://www.prestashop.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=PrestaShop&color=DF0067&logo=PrestaShop&logoColor=DF0067&labelColor=2F333A" alt="Prestashop e-commerce management system"></a>
+<!-- moodle -->
+  <a href="#" target="_blank"> <img height="" src="" alt="Moodle LMS"></a>
+<!-- suite crm -->
+  <a href="#" target="_blank"> <img height="" src="" alt="Suite CRM"></a>
 </div>
 
 ### 📈 My Github stats
