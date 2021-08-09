@@ -66,7 +66,7 @@ Feel free to conect.
 <!-- VBA -->
   <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Visual%20Basic%20for%20Aplications&color=258FFA&logo=Microsoft&logoColor=258FFA&labelColor=2F333A" alt="VBA Visual Basic for Applications"></a>
 <!-- sql -->
-  <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> <img height="" src="" alt="sql structured query language"></a>
+<!--   <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> <img height="" src="" alt="sql structured query language"></a> -->
 </div>
 
 ### tools
@@ -98,9 +98,9 @@ Feel free to conect.
 <!-- prestashop -->
   <a href="https://www.prestashop.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=PrestaShop&color=DF0067&logo=PrestaShop&logoColor=DF0067&labelColor=2F333A" alt="Prestashop e-commerce management system"></a>
 <!-- moodle -->
-  <a href="#" target="_blank"> <img height="" src="" alt="Moodle LMS"></a>
+<!--   <a href="#" target="_blank"> <img height="" src="" alt="Moodle LMS"></a> -->
 <!-- suite crm -->
-  <a href="#" target="_blank"> <img height="" src="" alt="Suite CRM"></a>
+<!--   <a href="#" target="_blank"> <img height="" src="" alt="Suite CRM"></a> -->
 </div>
 
 ### IDE's
