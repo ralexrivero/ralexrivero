@@ -69,9 +69,21 @@ Feel free to conect.
 <!--   <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> <img height="" src="" alt="sql structured query language"></a> -->
 </div>
 
-### tools
+### evironment
 
 <div>
+<!-- ubuntu -->
+<a href="https://ubuntu.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=E95420&labelColor=2F333A" alt="Suite CRM"></a>
+<!-- jupyter -->
+  <a href="https://jupyter.org/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Jupyter&color=F37626&logo=Jupyter&logoColor=F37626&labelColor=2F333A" alt="Suite CRM"></a>
+<!-- colab -->
+<a href="https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Google%20Colab&color=F9AB00&logo=Google%20Colab&logoColor=F9AB00&labelColor=2F333A" alt="Suite CRM"></a>
+<!-- vs code -->
+<a href="https://code.visualstudio.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=5C2D91&logo=Visual%20Studio%20Code&logoColor=5C2D91&labelColor=2F333A" alt="Suite CRM"></a>
+<!-- atom -->
+<a href="https://atom.io/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Atom&color=66595C&logo=Atom&logoColor=f1f1f1&labelColor=2F333A" alt="Suite CRM"></a>
+<!-- vim -->
+<a href="https://www.vim.org/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Vim&color=019733&logo=Vim&logoColor=019733&labelColor=2F333A" alt="Suite CRM"></a>
 <!-- git -->
   <a href="https://git-scm.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=Git&logoColor=F05032&labelColor=2F333A" alt="git distributed version control system"></a>
 <!-- github -->
@@ -98,31 +110,16 @@ Feel free to conect.
 <!-- prestashop -->
   <a href="https://www.prestashop.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=PrestaShop&color=DF0067&logo=PrestaShop&logoColor=DF0067&labelColor=2F333A" alt="Prestashop e-commerce management system"></a>
 <!-- moodle -->
-<!--   <a href="#" target="_blank"> <img height="" src="" alt="Moodle LMS"></a> -->
+<a href="https://moodle.org" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=m&message=moodle&color=F98012&logo=&logoColor=E95420&labelColor=2F333A" alt="Moodle LMS"></a>
 <!-- suite crm -->
-<!--   <a href="#" target="_blank"> <img height="" src="" alt="Suite CRM"></a> -->
-</div>
-
-### IDE's
-
-<div>
-<!-- jupyter -->
-  <a href="https://jupyter.org/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Jupyter&color=F37626&logo=Jupyter&logoColor=F37626&labelColor=2F333A" alt="Suite CRM"></a>
-<!-- colab -->
-<a href="https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Google%20Colab&color=F9AB00&logo=Google%20Colab&logoColor=F9AB00&labelColor=2F333A" alt="Suite CRM"></a>
-<!-- vs code -->
-<a href="https://code.visualstudio.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=5C2D91&logo=Visual%20Studio%20Code&logoColor=5C2D91&labelColor=2F333A" alt="Suite CRM"></a>
-<!-- atom -->
-<a href="https://atom.io/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Atom&color=66595C&logo=Atom&logoColor=f1f1f1&labelColor=2F333A" alt="Suite CRM"></a>
-<!-- vim -->
-<a href="https://www.vim.org/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Vim&color=019733&logo=Vim&logoColor=019733&labelColor=2F333A" alt="Suite CRM"></a>
+<a href="https://suitecrm.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=Suite&message=SuiteCRM&color=5C566B&logo=&logoColor=5C566B&labelColor=2F333A" alt="Suite CRM"></a>
 </div>
 
 ### 📈 My Github stats
 
 <p justify-content="center">
  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=ralexrivero&theme=react-dark&custom_title=Contribution%20Graph">
-</p> 
+</p>
 
 <div align="justify">
 <img width="49%" src=https://github-readme-stats.vercel.app/api?username=ralexrivero&show_icons=true&theme=dark&custom_title=Ronald%20's%20Github%20Profile>
