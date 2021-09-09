@@ -1,4 +1,4 @@
-# me
+<!-- # me -->
 ## myself
 <!-- about me -->
 I am a tech enthusiast, allways looking to collaborating on projects and innovative and disruptive ideas.
@@ -69,7 +69,7 @@ Feel free to conect.
 <!--   <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> <img height="" src="" alt="sql structured query language"></a> -->
 </div>
 
-### evironment
+### environment
 
 <div>
 <!-- ubuntu -->
