@@ -24,6 +24,7 @@ Feel free to conect.
 
 <div>
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.shields.io/static/v1?label=&message=TensorFlow&color=FF9500&logo=tensorflow&labelColor=2F333A" alt="TensorFlow automatic learning"></a>
+<a href="https://www.java.com/en/" target="_blank"> <img src="https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=Java&labelColor=2F333A" alt="Java"></a>
 </div>
 
 ### skills
