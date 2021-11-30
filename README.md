@@ -67,7 +67,7 @@ Feel free to conect.
 <!-- VBA -->
   <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Visual%20Basic%20for%20Aplications&color=258FFA&logo=Microsoft&logoColor=258FFA&labelColor=2F333A" alt="VBA Visual Basic for Applications"></a>
 <!-- sql -->
-<a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> <img height="" src="" alt="sql structured query language"></a>
+<a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=SQL&message=SQL&color=4479A1&logo=SQL&logoColor=4479A1&labelColor=E8E8E8" alt="sql structured query language"></a>
 </div>
 
 ### environment
@@ -92,7 +92,7 @@ Feel free to conect.
 <!-- bash -->
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=GNU%20Bash&color=4EAA25&logo=GNU%20Bash&logoColor=4EAA25&labelColor=2F333A" alt="terminal"></a>
 <!-- mysql -->
-  <a href="https://www.mysql.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=MySQL&logoColor=4479A1&labelColor=2F333A" alt="mysql"></a>
+  <a href="https://www.mysql.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=MySQL&logoColor=4479A1&labelColor=F5F5F5" alt="mysql"></a>
 </div>
 
 ### frameworks and CMS
