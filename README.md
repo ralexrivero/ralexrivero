@@ -13,7 +13,7 @@ Feel free to conect.
 <div>
 <a href="https://twitter.com/ralex_uy" target="_blank">  <img align="left" alt="Ronald Rivero | Twitter" src="https://img.shields.io/twitter/follow/ralex_uy?style=social"/> </a>
 
-<a href="https://www.linkedin.com/in/ronald-rivero/" target="_blank">  <img align="left" alt="Ronald Rivero | LinkedIn" src="https://img.shields.io/badge/LinkedIn-+19K-blue?style=social&logo=linkedin"/> </a>
+<a href="https://www.linkedin.com/in/ronald-rivero/" target="_blank">  <img align="left" alt="Ronald Rivero | LinkedIn" src="https://img.shields.io/badge/LinkedIn-+20K-blue?style=social&logo=linkedin"/> </a>
 
 <a href="https://github.com/ralexrivero/" target="_blank">  <img align="left" src="https://img.shields.io/github/followers/ralexrivero?style=social" alt="Ralex | Github"> </a>
 </br>
@@ -67,24 +67,24 @@ Feel free to conect.
 <!-- VBA -->
   <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Visual%20Basic%20for%20Aplications&color=258FFA&logo=Microsoft&logoColor=258FFA&labelColor=2F333A" alt="VBA Visual Basic for Applications"></a>
 <!-- sql -->
-<!--   <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> <img height="" src="" alt="sql structured query language"></a> -->
+<a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=SQL&message=SQL&color=4479A1&logo=SQL&logoColor=4479A1&labelColor=E8E8E8" alt="sql structured query language"></a>
 </div>
 
 ### environment
 
 <div>
 <!-- ubuntu -->
-<a href="https://ubuntu.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=E95420&labelColor=2F333A" alt="Suite CRM"></a>
+<a href="https://ubuntu.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=E95420&labelColor=2F333A" alt="Ubuntu"></a>
 <!-- jupyter -->
   <a href="https://jupyter.org/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Jupyter&color=F37626&logo=Jupyter&logoColor=F37626&labelColor=2F333A" alt="Suite CRM"></a>
 <!-- colab -->
-<a href="https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Google%20Colab&color=F9AB00&logo=Google%20Colab&logoColor=F9AB00&labelColor=2F333A" alt="Suite CRM"></a>
+<a href="https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Google%20Colab&color=F9AB00&logo=Google%20Colab&logoColor=F9AB00&labelColor=2F333A" alt="Google Colab"></a>
 <!-- vs code -->
-<a href="https://code.visualstudio.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=5C2D91&logo=Visual%20Studio%20Code&logoColor=5C2D91&labelColor=2F333A" alt="Suite CRM"></a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=5C2D91&logo=Visual%20Studio%20Code&logoColor=5C2D91&labelColor=2F333A" alt="Visual Studio Code"></a>
 <!-- atom -->
-<a href="https://atom.io/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Atom&color=66595C&logo=Atom&logoColor=f1f1f1&labelColor=2F333A" alt="Suite CRM"></a>
+<a href="https://atom.io/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Atom&color=66595C&logo=Atom&logoColor=f1f1f1&labelColor=2F333A" alt="Atom"></a>
 <!-- vim -->
-<a href="https://www.vim.org/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Vim&color=019733&logo=Vim&logoColor=019733&labelColor=2F333A" alt="Suite CRM"></a>
+<a href="https://www.vim.org/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Vim&color=019733&logo=Vim&logoColor=019733&labelColor=2F333A" alt="Vim"></a>
 <!-- git -->
   <a href="https://git-scm.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=Git&logoColor=F05032&labelColor=2F333A" alt="git distributed version control system"></a>
 <!-- github -->
@@ -92,7 +92,7 @@ Feel free to conect.
 <!-- bash -->
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=GNU%20Bash&color=4EAA25&logo=GNU%20Bash&logoColor=4EAA25&labelColor=2F333A" alt="terminal"></a>
 <!-- mysql -->
-  <a href="https://www.mysql.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=MySQL&logoColor=4479A1&labelColor=2F333A" alt="mysql"></a>
+  <a href="https://www.mysql.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=MySQL&logoColor=4479A1&labelColor=F5F5F5" alt="mysql"></a>
 </div>
 
 ### frameworks and CMS
