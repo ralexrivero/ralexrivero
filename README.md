@@ -26,7 +26,7 @@ Feel free to conect.
 
 <!-- present -->
 
-### queue
+### Lerning
 
 <div>
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.shields.io/static/v1?label=&message=TensorFlow&color=FF9500&logo=tensorflow&labelColor=2F333A" alt="TensorFlow automatic learning"></a>
