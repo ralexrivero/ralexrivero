@@ -9,17 +9,17 @@ Adept in offering cutting edge engineering solutions and efectively guiding deve
 Skilled in problem solving based on deep process analitics.
 
 Feel free to conect.
-<!-- social media and proffesional portfolio-->
+<!-- social media and professional portfolio-->
 <div>
-<a href="https://twitter.com/ralex_uy" target="_blank">  <img align="left" alt="Ronald Rivero | Twitter" src="https://img.shields.io/twitter/follow/ralex_uy?style=social"/> </a>
+<a href="https://twitter.com/ralex_uy" target="_blank"> <img align="left" alt="Ronald Rivero | Twitter" src="https://img.shields.io/twitter/follow/ralex_uy?style=social"/> </a>
 
-<a href="https://www.linkedin.com/in/ronald-rivero/" target="_blank">  <img align="left" alt="Ronald Rivero | LinkedIn" src="https://img.shields.io/badge/LinkedIn-+21K-blue?style=social&logo=linkedin"/> </a>
+<a href="https://www.linkedin.com/in/ronald-rivero/" target="_blank"> <img align="left" alt="Ronald Rivero | LinkedIn" src="https://img.shields.io/badge/LinkedIn-+21K-blue?style=social&logo=linkedin"/> </a>
 
-<a href="https://github.com/ralexrivero/" target="_blank">  <img align="left" src="https://img.shields.io/github/followers/ralexrivero?style=social" alt="Ralex | Github"> </a>
+<a href="https://github.com/ralexrivero/" target="_blank"> <img align="left" src="https://img.shields.io/github/followers/ralexrivero?style=social" alt="Ralex | Github"> </a>
 
-<a href="https://app.vagrantup.com/ralexrivero" target="_blank"> <img src="https://img.shields.io/static/v1?label=&message=Vagrant%20Profile&color=1868F2&logo=vagrant&labelColor=2F333A" alt="Vagrantup profile"></a>
+<a href="https://app.vagrantup.com/ralexrivero" target="_blank"> <img align="left" src="https://img.shields.io/static/v1?label=&message=Vagrant%20Profile&color=1868F2&logo=vagrant&labelColor=2F333A" alt="Vagrantup profile"></a>
 
-<a href="https://hub.docker.com/u/ralexrivero" target="_blank"> <img src="https://img.shields.io/static/v1?label=&message=Docker%20Profile&color=2496ED&logo=Docker&labelColor=2F333A" alt="Docker profile"></a>
+<a href="https://hub.docker.com/u/ralexrivero" target="_blank"> <img align="left" src="https://img.shields.io/static/v1?label=&message=Docker%20Profile&color=2496ED&logo=Docker&labelColor=2F333A" alt="Docker profile"></a>
 
 </br>
 </div>
