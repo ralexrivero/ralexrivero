@@ -36,7 +36,7 @@ Learning is my way of life.
 ---
 <!-- my stack -->
 <!-- program languages -->
-> stack
+## stack
 
 <div>
 <!-- c -->
