@@ -1,6 +1,7 @@
 <!-- # me -->
 ## myself
 <!-- about me -->
+```python
 I am a tech enthusiast, allways looking to collaborating on projects and innovative and disruptive ideas.
 
 Too a well experienced consultant and full stack programmer, really enthusiast and an open-source advocate.
@@ -9,48 +10,34 @@ Adept in offering cutting edge engineering solutions and efectively guiding deve
 Skilled in problem solving based on deep process analitics.
 
 Feel free to conect.
-<!-- social media and professional portfolio-->
-<div>
-<!-- twiter -->
-<a href="https://twitter.com/ralex_uy" target="_blank"> <img align="left" alt="Ronald Rivero | Twitter" src="https://img.shields.io/twitter/follow/ralex_uy?style=social"/> </a>
-<!-- linkedin -->
-<a href="https://www.linkedin.com/in/ronald-rivero/" target="_blank"> <img align="left" alt="Ronald Rivero | LinkedIn" src="https://img.shields.io/badge/LinkedIn-+21K-blue?style=social&logo=linkedin"/> </a>
-<!-- github -->
-<a href="https://github.com/ralexrivero/" target="_blank"> <img align="left" src="https://img.shields.io/github/followers/ralexrivero?style=social" alt="Ralex | Github"> </a>
-<!-- vagrant -->
-<a href="https://app.vagrantup.com/ralexrivero" target="_blank"> <img align="left" src="https://img.shields.io/static/v1?label=&message=Vagrant%20Profile&color=1868F2&logo=vagrant&labelColor=2F333A" alt="Vagrantup profile"></a>
-<!-- docker -->
-<a href="https://hub.docker.com/u/ralexrivero" target="_blank"> <img align="left" src="https://img.shields.io/static/v1?label=&message=Docker%20Profile&color=2496ED&logo=Docker&labelColor=2F333A" alt="Docker profile"></a>
+```
 
-</br>
-</div>
+<!-- social media and professional portfolio-->
+<!-- twitter -->
+[![Twitter](https://img.shields.io/twitter/follow/ralex_uy?style=social)](https://twitter.com/ralex_uy) <!-- linkedin --> [![Linkedin](https://img.shields.io/badge/LinkedIn-+21K-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/ronald-rivero/) <!-- github --> [![Github](https://img.shields.io/github/followers/ralexrivero?style=social)](https://github.com/ralexrivero/) <!-- vagrant --> [![Vagrant](https://img.shields.io/static/v1?label=&message=Vagrant%20Profile&color=1868F2&logo=vagrant&labelColor=2F333A)](https://app.vagrantup.com/ralexrivero) <!-- docker --> [![Docker](https://img.shields.io/static/v1?label=&message=Docker%20Profile&color=2496ED&logo=Docker&labelColor=2F333A)](https://hub.docker.com/u/ralexrivero)
 
 <!-- present -->
 
-### Lerning
+> Lerning
 
 <div>
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.shields.io/static/v1?label=&message=TensorFlow&color=FF9500&logo=tensorflow&labelColor=2F333A" alt="TensorFlow automatic learning"></a>
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=Java&labelColor=2F333A" alt="Java"></a>
 </div>
 
-### skills
+> skills
 <!-- skill badges -->
-![soft skills](https://img.shields.io/badge/-Adaptability%20-lightgrey)
 ![soft skills](https://img.shields.io/badge/-Continious%20learning%20-lightgrey)
-![soft skills](https://img.shields.io/badge/-comunication-lightgrey)
-![soft skills](https://img.shields.io/badge/-self%20care-lightgrey)
-![soft skills](https://img.shields.io/badge/-participative%20leadership-lightgrey)
+![soft skills](https://img.shields.io/badge/-Adaptability%20-lightgrey)
+![soft skills](https://img.shields.io/badge/-teamwork-lightgrey)
 ![soft skills](https://img.shields.io/badge/-innovation-lightgrey)
 ![soft skills](https://img.shields.io/badge/-result%20orientation-lightgrey)
 ![soft skills](https://img.shields.io/badge/-client%20vision-lightgrey)
-![soft skills](https://img.shields.io/badge/-resilent-lightgrey)
-![soft skills](https://img.shields.io/badge/-teamwork-lightgrey)
 
 ---
 <!-- my stack -->
 <!-- program languages -->
-### stack
+> stack
 
 <div>
 <!-- c -->
