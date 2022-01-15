@@ -6,7 +6,8 @@ I am a tech enthusiast, allways looking to collaborating on projects and innovat
 
 Too a well experienced consultant and full stack programmer, really enthusiast and an open-source advocate.
 
-Adept in offering cutting edge engineering solutions and efectively guiding developer teams. Bringing forth expertise in managing all aspects of software deveolopment life cycle.
+Adept in offering cutting edge engineering solutions and efectively guiding developer teams.
+Bringing forth expertise in managing all aspects of software deveolopment life cycle.
 Skilled in problem solving based on deep process analitics.
 
 Feel free to conect.
