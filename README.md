@@ -111,9 +111,9 @@ Learning is my way of life.
 
 ### 📈 My Github stats
 <!-- Contribution graph -->
-<p justify-content="center">
+<!-- <p justify-content="center">
  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=ralexrivero&theme=react-dark&custom_title=Contribution%20Graph">
-</p>
+</p> -->
 <!-- stats profile -->
 <div align="justify">
 <img width="49%" src=https://github-readme-stats.vercel.app/api?username=ralexrivero&show_icons=true&theme=dark&custom_title=Ronald%20's%20Github%20Profile>
