@@ -87,6 +87,14 @@ Learning is my way of life.
 
 [![AWS](https://img.shields.io/static/v1?label=&message=Amazon%20AWS&color=232F3E&logo=Amazon%20AWS&logoColor=232F3E&labelColor=F5F5F5)](https://aws.amazon.com/)<!-- AWS -->
 
+## Machine Learning
+
+[![Jupyter](https://img.shields.io/static/v1?label=&message=Jupyter&color=F37626&logo=Jupyter&logoColor=F37626&labelColor=2F333A)](https://jupyter.org/)<!-- jupyter -->
+
+- `conda`
+- `numpy`
+- `pandas`
+- `matplotlib`
 
 ### 📈 My Github stats
 <!-- Contribution graph -->
