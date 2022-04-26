@@ -91,10 +91,11 @@ Learning is my way of life.
 
 [![Jupyter](https://img.shields.io/static/v1?label=&message=Jupyter&color=F37626&logo=Jupyter&logoColor=F37626&labelColor=2F333A)](https://jupyter.org/)<!-- jupyter -->
 
-- `conda`
-- `numpy`
-- `pandas`
-- `matplotlib`
+[![Conda](https://img.shields.io/static/v1?label=&message=Conda&color=44A833&logo=anaconda&logoColor=44A833&labelColor=e2e2e2)](https://docs.conda.io/en/latest/)<!-- conda --><!-- no logo-->
+[![Numpy](https://img.shields.io/static/v1?label=&message=Numpy&color=013243&logo=numpy&logoColor=013243&labelColor=e2e2e2)](https://numpy.org/)<!-- numpy -->
+[![Pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=150458&logo=pandas&logoColor=150458&labelColor=e2e2e2)](https://pandas.pydata.org/)<!-- pandas -->
+[![Matplotlib](https://img.shields.io/static/v1?label=&message=Matplotlib&color=11557C&logo=Python&logoColor=11557C&labelColor=e2e2e2)](https://matplotlib.org/)<!-- matplotlib --><!-- no logo-->
+[![Scikit-lern](https://img.shields.io/static/v1?label=&message=scikit-learn&color=F7931E&logo=scikit-learn&logoColor=F7931E&labelColor=e2e2e2)](https://scikit-learn.org/)<!-- scikitlearn -->
 
 ### 📈 My Github stats
 <!-- Contribution graph -->
