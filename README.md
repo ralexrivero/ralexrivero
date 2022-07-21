@@ -1,7 +1,7 @@
 <!-- # me -->
 ## myself
 <!-- about me -->
-```json
+```python
 I don't have all the answers, but i will ask enough questions.
 Self learning and growth mindset.
 ```
