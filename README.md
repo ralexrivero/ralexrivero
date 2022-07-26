@@ -2,13 +2,8 @@
 ## myself
 <!-- about me -->
 ```python
-I am a tech enthusiast, allways looking to collaborating on projects and innovative and disruptive ideas.
-Too a well experienced consultant and full stack programmer, really enthusiast and an open-source advocate.
-Adept in offering cutting edge engineering solutions and efectively guiding teams.
-Bringing forth expertise in managing all aspects of software deveolopment life cycle.
-Skilled in problem solving based on deep process analitics.
-
-Learning is my way of life.
+I don't have all the answers, but i will ask enough questions.
+Self learning and growth mindset.
 ```
 
 <!-- social media and professional portfolio-->
