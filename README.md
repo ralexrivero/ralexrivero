@@ -16,12 +16,11 @@ Self learning and growth mindset.
 
 > skills
 <!-- skill badges -->
-![soft skills](https://img.shields.io/badge/-Continious%20learning%20-lightgrey)
-![soft skills](https://img.shields.io/badge/-Adaptability%20-lightgrey)
-![soft skills](https://img.shields.io/badge/-teamwork-lightgrey)
-![soft skills](https://img.shields.io/badge/-innovation-lightgrey)
-![soft skills](https://img.shields.io/badge/-result%20orientation-lightgrey)
-![soft skills](https://img.shields.io/badge/-client%20vision-lightgrey)
+![soft skills](https://img.shields.io/badge/-agile%20mindset-orange)
+![soft skills](https://img.shields.io/badge/-continuous%20learning%20-orange)
+![soft skills](https://img.shields.io/badge/-failure%20friendly-orange)
+![soft skills](https://img.shields.io/badge/-analytic-orange)
+![soft skills](https://img.shields.io/badge/-resilent-orange)
 
 ---
 <!-- my stack -->
