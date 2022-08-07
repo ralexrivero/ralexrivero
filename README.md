@@ -82,3 +82,5 @@ Self learning and growth mindset.
 <!-- Top languages -->
 <img width="49%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=ralexrivero&layout=compact&hide=roff,MATLAB&langs_count=8&theme=dark&custom_title=Top%20languages>
 </div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ralexrivero&theme=dark)](https://git.io/streak-stats)<!-- current streak-->
