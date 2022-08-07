@@ -72,11 +72,10 @@ Self learning and growth mindset.
 [![Scikit-lern](https://img.shields.io/static/v1?label=&message=scikit-learn&color=F7931E&logo=scikit-learn&logoColor=F7931E&labelColor=e2e2e2)](https://scikit-learn.org/)<!-- scikitlearn -->
 
 ### 📈 My Github stats
-<!-- Contribution graph -->
-<p justify-content="center">
- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=ralexrivero&theme=react-dark&custom_title=Contribution%20Graph"><!-- stats profile -->
-</p>
-<div align="justify">
+
+ <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=ralexrivero&theme=react-dark&custom_title=Contribution%20Graph"><!-- Contribution graph -->
+
+<div align="center">
     <img width="49%" src=https://github-readme-stats.vercel.app/api?username=ralexrivero&show_icons=true&theme=dark&custom_title=My%20Github%20Profile&include_all_commits=false&count_private=true&cache_seconds=7200><!-- stats profile -->
     <img width="49%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=ralexrivero&layout=compact&hide=roff,MATLAB&langs_count=8&theme=dark&custom_title=Top%20languages><!-- Top languages -->
     <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=ralexrivero&theme=dark"><!-- current streak-->
