@@ -78,7 +78,7 @@ Self learning and growth mindset.
 </p>
 <!-- stats profile -->
 <div align="justify">
-<img width="49%" src=https://github-readme-stats.vercel.app/api?username=ralexrivero&show_icons=true&theme=dark&custom_title=Ronald%20's%20Github%20Profile>
+<img width="49%" src=https://github-readme-stats.vercel.app/api?username=ralexrivero&show_icons=true&theme=dark&custom_title=My%20Github%20Profile&include_all_commits=true&count_private=true&cache_seconds=7200>
 <!-- Top languages -->
 <img width="49%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=ralexrivero&layout=compact&hide=roff,MATLAB&langs_count=8&theme=dark&custom_title=Top%20languages>
 </div>
