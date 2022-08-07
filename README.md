@@ -49,7 +49,6 @@ Self learning and growth mindset.
 [![Github](https://img.shields.io/static/v1?label=&message=GitHub&color=181717&logo=GitHub&logoColor=f2f2f2&labelColor=2F333A)](https://github.com)<!-- github -->
 [![Vagrant](https://img.shields.io/static/v1?label=&message=Vagrant&color=1868F2&logo=vagrant&labelColor=2F333A)](https://app.vagrantup.com/)<!-- vagrant -->
 [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=Docker&labelColor=2F333A)](https://hub.docker.com)<!-- docker -->
-[![Colab](https://img.shields.io/static/v1?label=&message=Google%20Colab&color=F9AB00&logo=Google%20Colab&logoColor=F9AB00&labelColor=2F333A)](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index)<!-- colab -->
 [![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=MySQL&logoColor=4479A1&labelColor=F5F5F5)](https://www.mysql.com/)<!-- mysql -->
 
 ### frameworks
@@ -64,6 +63,7 @@ Self learning and growth mindset.
 ## Machine Learning
 
 [![Jupyter](https://img.shields.io/static/v1?label=&message=Jupyter&color=F37626&logo=Jupyter&logoColor=F37626&labelColor=2F333A)](https://jupyter.org/)<!-- jupyter -->
+[![Colab](https://img.shields.io/static/v1?label=&message=Google%20Colab&color=F9AB00&logo=Google%20Colab&logoColor=F9AB00&labelColor=2F333A)](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index)<!-- colab -->
 
 [![Conda](https://img.shields.io/static/v1?label=&message=Conda&color=44A833&logo=anaconda&logoColor=44A833&labelColor=e2e2e2)](https://docs.conda.io/en/latest/)<!-- conda --><!-- no logo-->
 [![Numpy](https://img.shields.io/static/v1?label=&message=Numpy&color=013243&logo=numpy&logoColor=013243&labelColor=e2e2e2)](https://numpy.org/)<!-- numpy -->
