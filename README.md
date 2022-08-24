@@ -12,8 +12,6 @@ Self learning and growth mindset.
 
 <!-- present -->
 
-> Lerning now: *Machine learning*
-
 > skills
 <!-- skill badges -->
 ![soft skills](https://img.shields.io/badge/-agile%20mindset-orange)
