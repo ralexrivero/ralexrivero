@@ -32,8 +32,10 @@ Self learning and growth mindset.
 [![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&logo=HTML5&logoColor=E34F26&labelColor=2F333A)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)<!--HTML5-->
 [![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=0071B5&logo=CSS3&logoColor=1572B6&labelColor=2F333A)](https://developer.mozilla.org/en-US/docs/Web/CSS)<!-- CSS3 -->
 [![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=D4B830&logo=JavaScript&logoColor=F7DF1E&labelColor=2F333A)](https://www.javascript.com)<!-- JS -->
+[![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=3178C6&labelColor=2F333A)](https://www.typescriptlang.org/)<!-- TS -->
 [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=f4f4f4&logo=Markdown&logoColor=f2f2f2&labelColor=2F333A)](https://www.markdownguide.org/)<!-- Markdown -->
 [![SQL](https://img.shields.io/static/v1?label=SQL&message=SQL&color=4479A1&logo=SQL&logoColor=4479A1&labelColor=E8E8E8)](https://www.w3schools.com/sql/)<!-- sql -->
+[![VBA Visual Basic for Applications](https://img.shields.io/static/v1?label=&message=Visual%20Basic%20for%20Aplications&color=258FFA&logo=Microsoft&logoColor=258FFA&labelColor=2F333A)](https://docs.microsoft.com/en-us/office/vba/api/overview/)<!-- VBA --><!-- no logo-->
 
 ### Environment
 
@@ -53,9 +55,16 @@ Self learning and growth mindset.
 [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=Docker&labelColor=2F333A)](https://hub.docker.com)<!-- docker -->
 [![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=MySQL&logoColor=4479A1&labelColor=F5F5F5)](https://www.mysql.com/)<!-- mysql -->
 
-### Frameworks
+### Front-end
 
+<!-- Angular -->
+<!-- React -->
 [![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=7952B3&labelColor=2F333A)](https://getbootstrap.com/)<!-- Bootstrap -->
+
+### Back-end
+
+<!-- Flask -->
+<!-- Django -->
 
 ## Networking and Cloud
 
