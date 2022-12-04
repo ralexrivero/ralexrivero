@@ -51,13 +51,20 @@ Self learning and growth mindset.
 
 [![Vagrant](https://img.shields.io/static/v1?label=&message=Vagrant&color=1868F2&logo=vagrant&labelColor=2F333A)](https://app.vagrantup.com/)<!-- vagrant -->
 [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=Docker&labelColor=2F333A)](https://hub.docker.com)<!-- docker -->
+[![Docker Compose](https://img.shields.io/static/v1?label=&message=Docker%20Compose&color=2496ED&logo=Docker&labelColor=2F333A)](https://docs.docker.com/compose/compose-file/)<!-- Docker Compose -->
+
+### DBMS
+
 [![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=MySQL&logoColor=4479A1&labelColor=F5F5F5)](https://www.mysql.com/)<!-- mysql -->
+[![Postgres](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=4169E1&labelColor=2F333A)](https://www.postgresql.org/)<!-- Postgres -->
 
 ### Front-end
 
 <!-- Angular -->
-<!-- React -->
 [![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=7952B3&labelColor=2F333A)](https://getbootstrap.com/)<!-- Bootstrap -->
+[![Tailwindcss](https://img.shields.io/static/v1?label=&message=Tailwind%20CSS&color=06B6D4&logo=Tailwind%20CSS&logoColor=06B6D4&labelColor=2F333A)](https://tailwindcss.com/)<!-- tailwind.css -->
+
+[![React.js](https://img.shields.io/static/v1?label=&message=React.js&color=61DAFB&logo=React&logoColor=61DAFB&labelColor=2F333A)](https://es.reactjs.org/)<!-- React.js -->
 
 ### Back-end
 
