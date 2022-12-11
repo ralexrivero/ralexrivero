@@ -58,6 +58,13 @@ Self learning and growth mindset.
 [![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=MySQL&logoColor=4479A1&labelColor=F5F5F5)](https://www.mysql.com/)<!-- mysql -->
 [![Postgres](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=4169E1&labelColor=F5F5F5)](https://www.postgresql.org/)<!-- Postgres -->
 
+### UX-UI
+
+[![Figma](https://img.shields.io/static/v1?label=&message=Figma&color=F24E1E&logo=Figma&logoColor=F24E1E&labelColor=e2e2e2)](https://www.figma.com/)<!-- Figma -->
+[![XD](https://img.shields.io/static/v1?label=&message=Adobe%20XD&color=FF61F6&logo=Adobe%20XD&logoColor=FF61F6&labelColor=2F333A)](https://www.adobe.com/creativecloud.html)<!-- XD -->
+[![Illustrator](https://img.shields.io/static/v1?label=&message=Adobe%20Illustrator&color=FF9A00&logo=Adobe%20Illustrator&logoColor=FF9A00&labelColor=2F333A)](https://www.adobe.com/products/illustrator.html)<!-- Illustrator -->
+[![Photoshop](https://img.shields.io/static/v1?label=&message=Adobe%20Photoshop&color=31A8FF&logo=Adobe%20Photoshop&logoColor=31A8FF&labelColor=2F333A)](https://www.adobe.com/products/photoshop.html)<!-- Photoshop -->
+
 ### Front-end
 
 <!-- Angular -->
