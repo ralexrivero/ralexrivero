@@ -107,5 +107,5 @@ Self learning and growth mindset.
 <div align="center">
     <img width="49%" src=https://github-readme-stats.vercel.app/api?username=ralexrivero&show_icons=true&theme=dark&custom_title=My%20Github%20Profile&include_all_commits=false&count_private=true&cache_seconds=7200><!-- stats profile -->
     <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=ralexrivero&theme=dark"><!-- current streak-->
-    <img width="38%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=ralexrivero&layout=compact&hide=roff,MATLAB&langs_count=8&theme=dark&custom_title=Top%20languages><!-- Top languages -->
+    <img width="38%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=ralexrivero&layout=compact&hide=roff,MATLAB&langs_count=10&theme=dark&custom_title=Top%20languages><!-- Top languages -->
 </div>
