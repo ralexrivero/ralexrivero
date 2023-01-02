@@ -100,7 +100,9 @@ Self learning and growth mindset.
 
 ### 📈 My Github stats
 
-<!--  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=ralexrivero&theme=react-dark&custom_title=Contribution%20Graph"> --> <!-- Contribution graph -->
+<!--  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=ralexrivero&theme=react-dark&custom_title=Contribution%20Graph"> -->
+[![ralex's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ralexrivero&theme=dracula)](https://github.com/ralexrivero)
+<!-- Contribution graph -->
 
 <div align="center">
     <img width="49%" src=https://github-readme-stats.vercel.app/api?username=ralexrivero&show_icons=true&theme=dark&custom_title=My%20Github%20Profile&include_all_commits=false&count_private=true&cache_seconds=7200><!-- stats profile -->
