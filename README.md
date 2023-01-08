@@ -16,6 +16,9 @@ Self learning and growth mindset.
 <!-- Behance -->
 <!-- website -->
 
+[![CodersRank](https://img.shields.io/static/v1?label=&message=Coders%20Rank&color=67A4AC&logo=CodersRank&logoColor=67A4AC&labelColor=2F333A)](https://profile.codersrank.io/user/ralexrivero) <!-- codersrank -->
+[![HackersRank](https://img.shields.io/static/v1?label=&message=Hacker%20Rank&color=00EA64&logo=HackerRank&logoColor=00EA64&labelColor=2F333A)](https://www.hackerrank.com/ralexrivero) <!-- hackerrank -->
+
 > skills
 <!-- skill badges -->
 ![soft skills](https://img.shields.io/badge/-agile%20mindset-orange)
