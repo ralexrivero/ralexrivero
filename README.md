@@ -64,6 +64,7 @@ Self learning and growth mindset.
 
 [![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=MySQL&logoColor=4479A1&labelColor=F5F5F5)](https://www.mysql.com/)<!-- mysql -->
 [![Postgres](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=4169E1&labelColor=F5F5F5)](https://www.postgresql.org/)<!-- Postgres -->
+[![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=MongoDB&logoColor=47A248&labelColor=2F333A)](https://www.mongodb.com/)<!-- MongoDB -->
 
 ### UX-UI
 
