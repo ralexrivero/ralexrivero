@@ -9,7 +9,6 @@
 [<img align="left" alt="Twitter" width="22px" src="https://github.com/ralexrivero/ralexrivero/raw/main/icons/x.svg" />](https://twitter.com/ralex_uy)
 [<img align="left" alt="LinkedIn" width="22px" src="https://github.com/ralexrivero/ralexrivero/raw/main/icons/linkedin.svg" />](https://www.linkedin.com/in/ronald-rivero/)
 [<img align="left" alt="Medium" width="22px" src="https://github.com/ralexrivero/ralexrivero/raw/main/icons/medium.svg" />](https://medium.com/@ralexrivero)
-[<img align="left" alt="GitHub" width="22px" src="https://github.com/ralexrivero/ralexrivero/raw/main/icons/github.svg" />](https://github.com/ralexrivero/)
 <br>
 ---
 
