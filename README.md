@@ -10,7 +10,7 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://github.com/ralexrivero/ralexrivero/raw/main/icons/linkedin.svg" />](https://www.linkedin.com/in/ronald-rivero/)
 [<img align="left" alt="Medium" width="22px" src="https://github.com/ralexrivero/ralexrivero/raw/main/icons/medium.svg" />](https://medium.com/@ralexrivero)
 [<img align="left" alt="GitHub" width="22px" src="https://github.com/ralexrivero/ralexrivero/raw/main/icons/github.svg" />](https://github.com/ralexrivero/)
-
+<br>
 ---
 
 ## Soft Skills 🧠
@@ -48,6 +48,7 @@
 ![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=MySQL&labelColor=F5F5F5)
 ![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=MongoDB&labelColor=2F333A)
 ... _[and more]_
+"I may not have all the answers, but I'll always ask the right questions. Committed to self-learning and fostering a growth mindset."
 
 ### UX/UI Design
 
@@ -59,9 +60,12 @@
 
 ## GitHub Insights 📊
 
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=ralexrivero&show_icons=true&theme=dark&custom_title=Ronald's%20GitHub%20Stats&include_all_commits=false&count_private=true">
-<img align="right" width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=ralexrivero&theme=dark">
-<img align="center" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ralexrivero&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true">
+<div align="center">
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=ralexrivero&show_icons=true&theme=dark&custom_title=Ronald's%20GitHub%20Stats&include_all_commits=false&count_private=true">
+  <img align="right" width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=ralexrivero&theme=dark">
+  <br>
+  <img align="center" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ralexrivero&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true">
+</div>
 
 ---
 
