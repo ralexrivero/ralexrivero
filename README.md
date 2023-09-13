@@ -6,7 +6,7 @@
 
 ## Connect with me 🌐
 
-[<img align="left" alt="Twitter" width="22px" src="https://github.com/ralexrivero/ralexrivero/raw/main/icons/twitter.svg" />](https://twitter.com/ralex_uy)
+[<img align="left" alt="Twitter" width="22px" src="https://github.com/ralexrivero/ralexrivero/raw/main/icons/x.svg" />](https://twitter.com/ralex_uy)
 [<img align="left" alt="LinkedIn" width="22px" src="https://github.com/ralexrivero/ralexrivero/raw/main/icons/linkedin.svg" />](https://www.linkedin.com/in/ronald-rivero/)
 [<img align="left" alt="Medium" width="22px" src="https://github.com/ralexrivero/ralexrivero/raw/main/icons/medium.svg" />](https://medium.com/@ralexrivero)
 [<img align="left" alt="GitHub" width="22px" src="https://github.com/ralexrivero/ralexrivero/raw/main/icons/github.svg" />](https://github.com/ralexrivero/)
@@ -15,11 +15,11 @@
 
 ## Soft Skills 🧠
 
-![Agile Mindset](https://img.shields.io/badge/-Agile%20Mindset-orange)
-![Continuous Learning](https://img.shields.io/badge/-Continuous%20Learning-orange)
-![Failure Friendly](https://img.shields.io/badge/-Failure%20Friendly-orange)
-![Analytic](https://img.shields.io/badge/-Analytic-orange)
-![Resilient](https://img.shields.io/badge/-Resilient-orange)
+- **Agile Mindset**: Adaptability and flexibility in ever-changing environments.
+- **Continuous Learning**: A relentless commitment to personal growth and knowledge acquisition.
+- **Embracing Failure**: Viewing setbacks as learning opportunities and not as defeats.
+- **Analytical Thinking**: Ability to dissect situations and make data-driven decisions.
+- **Resilience**: Perseverance in the face of challenges and the capacity to recover quickly from difficulties.
 
 ---
 
