@@ -48,7 +48,6 @@
 ![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=MySQL&labelColor=F5F5F5)
 ![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=MongoDB&labelColor=2F333A)
 ... _[and more]_
-"I may not have all the answers, but I'll always ask the right questions. Committed to self-learning and fostering a growth mindset."
 
 ### UX/UI Design
 
