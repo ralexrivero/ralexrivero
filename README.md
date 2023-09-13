@@ -29,6 +29,7 @@
 
 ![C](https://img.shields.io/static/v1?label=&message=C%20Language&color=5C6BC0&logo=c&labelColor=2F333A)
 ![Python](https://img.shields.io/static/v1?label=&message=Python&color=FFD43B&logo=python&labelColor=2F333A)
+![Java](https://img.shields.io/static/v1?label=&message=Java&color=437291&text=%22Java%22&logoColor=437291&labelColor=2F333A)
 ... _[and more]_
 
 ### Development Environment
