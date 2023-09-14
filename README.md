@@ -28,6 +28,7 @@
 
 ![C](https://img.shields.io/static/v1?label=&message=C%20Language&color=5C6BC0&logo=c&labelColor=2F333A)
 ![Python](https://img.shields.io/static/v1?label=&message=Python&color=FFD43B&logo=python&labelColor=2F333A)
+[![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=F7DF1E&labelColor=2F333A)](https://www.javascript.com)
 ![Java](https://img.shields.io/static/v1?label=&message=Java&color=437291&text=%22Java%22&logoColor=437291&labelColor=2F333A)
 ... _[and more]_
 
@@ -35,24 +36,22 @@
 
 ![Ubuntu](https://img.shields.io/static/v1?label=&message=Ubuntu&color=E95420&logo=Ubuntu&labelColor=2F333A)
 ![Bash](https://img.shields.io/static/v1?label=&message=GNU%20Bash&color=4EAA25&logo=GNU%20Bash&labelColor=2F333A)
+[![Docker](https://img.shields.io/static/v1?label=&message=Docker%20Profile&color=2496ED&logo=Docker&labelColor=2F333A)](https://hub.docker.com/u/ralexrivero)
+[![Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=Git&logoColor=F05032&labelColor=2F333A)](https://git-scm.com/)
 ... _[and more]_
 
 ### Front-end & Back-end
 
 ![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=7952B3&logo=Bootstrap&labelColor=2F333A)
 ![React.js](https://img.shields.io/static/v1?label=&message=React.js&color=61DAFB&logo=React&labelColor=2F333A)
+[![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=Django&logoColor=092E20&labelColor=F5F5F5)](https://www.djangoproject.com/)
 ... _[and more]_
 
 ### Database Management Systems
 
 ![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=MySQL&labelColor=F5F5F5)
+[![Postgres](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=4169E1&labelColor=2F333A)](https://www.postgresql.org/)
 ![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=MongoDB&labelColor=2F333A)
-... _[and more]_
-
-### UX/UI Design
-
-![Figma](https://img.shields.io/static/v1?label=&message=Figma&color=F24E1E&logo=Figma&labelColor=e2e2e2)
-![Adobe XD](https://img.shields.io/static/v1?label=&message=Adobe%20XD&color=FF61F6&logo=Adobe%20XD&labelColor=2F333A)
 ... _[and more]_
 
 ---
