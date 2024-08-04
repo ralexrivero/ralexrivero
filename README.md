@@ -6,10 +6,9 @@
 
 ## Connect with me 🌐
 
-[<img align="left" alt="Twitter" width="22px" src="https://github.com/ralexrivero/ralexrivero/raw/main/icons/x.svg" />](https://twitter.com/ralex_uy)
-[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/ralexrivero/ralexrivero/raw/main/icons/linkedin.svg" />](https://www.linkedin.com/in/ronald-rivero/)
-[<img align="left" alt="Medium" width="22px" src="https://github.com/ralexrivero/ralexrivero/raw/main/icons/medium.svg" />](https://medium.com/@ralexrivero)
-<br>
+[![Twitter](https://img.shields.io/badge/Twitter-@ralex_uy-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ralex_uy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ronald--rivero-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-rivero/)
+[![Medium](https://img.shields.io/badge/Medium-@ralexrivero-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@ralexrivero)
 ---
 
 ## Soft Skills 🧠
