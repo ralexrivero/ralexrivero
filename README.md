@@ -14,10 +14,10 @@
 ## Soft Skills 🧠
 
 - **Agile Mindset**: Adaptability and flexibility in ever-changing environments.
-- **Continuous Learning**: A relentless commitment to personal growth and knowledge acquisition.
+- **Continuous Learning**: Relentless commitment to personal growth and knowledge acquisition.
 - **Embracing Failure**: Viewing setbacks as learning opportunities and not as defeats.
 - **Analytical Thinking**: Ability to dissect situations and make data-driven decisions.
-- **Resilience**: Perseverance in the face of challenges and the capacity to recover quickly from difficulties.
+- **Resilience**: Perseverance in the face of challenges and capacity to recover quickly from difficulties.
 
 ---
 
