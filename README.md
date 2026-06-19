@@ -4,8 +4,6 @@ I may not have all the answers, but I'll always ask the right questions. Committ
 
 ---
 
-## Connect with me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ronald--rivero-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-rivero/)
 
 ---
