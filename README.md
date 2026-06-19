@@ -10,16 +10,6 @@ I may not have all the answers, but I'll always ask the right questions. Committ
 
 ---
 
-## Soft Skills
-
-- **Agile Mindset**: Adaptability and flexibility in ever-changing environments.
-- **Continuous Learning**: Relentless commitment to personal growth and knowledge acquisition.
-- **Embracing Failure**: Viewing setbacks as learning opportunities and not as defeats.
-- **Analytical Thinking**: Ability to dissect situations and make data-driven decisions.
-- **Resilience**: Perseverance in the face of challenges and capacity to recover quickly from difficulties.
-
----
-
 ## Tech Stack
 
 ### Programming Languages
@@ -50,8 +40,18 @@ I may not have all the answers, but I'll always ask the right questions. Committ
 [![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=mysql&logoColor=4479A1&labelColor=F5F5F5)](https://www.mysql.com/)
 [![Postgres](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=4169E1&logo=postgresql&logoColor=4169E1&labelColor=2F333A)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=mongodb&logoColor=white&labelColor=2F333A)](https://www.mongodb.com/)
+
 ---
 
+## Soft Skills
+
+- **Agile Mindset**: Adaptability and flexibility in ever-changing environments.
+- **Continuous Learning**: Relentless commitment to personal growth and knowledge acquisition.
+- **Embracing Failure**: Viewing setbacks as learning opportunities and not as defeats.
+- **Analytical Thinking**: Ability to dissect situations and make data-driven decisions.
+- **Resilience**: Perseverance in the face of challenges and capacity to recover quickly from difficulties.
+
+---
 ## GitHub Insights
 
 <div align="center">
