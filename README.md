@@ -1,6 +1,6 @@
 # Ronald Rivero
 
-> "I may not have all the answers, but I'll always ask the right questions. Committed to self-learning and fostering a growth mindset."
+> I may not have all the answers, but I'll always ask the right questions. Committed to self-learning and fostering a growth mindset.
 
 ---
 
@@ -24,30 +24,36 @@
 
 ### Programming Languages
 
-[![C](https://img.shields.io/static/v1?label=&message=C%20Language&color=5C6BC0&logo=c&labelColor=2F333A)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
-[![Python](https://img.shields.io/static/v1?label=&message=Python&color=FFD43B&logo=python&labelColor=2F333A)](https://www.python.org/)
-[![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=F7DF1E&labelColor=2F333A)](https://www.javascript.com)
-[![Java](https://img.shields.io/static/v1?label=&message=Java&color=437291&text=%22Java%22&logoColor=437291&labelColor=2F333A)](https://www.java.com/)
+[![C](https://img.shields.io/static/v1?label=&message=C%20Language&color=5C6BC0&logo=c&logoColor=white&labelColor=2F333A)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
+[![Python](https://img.shields.io/static/v1?label=&message=Python&color=FFD43B&logo=python&logoColor=white&labelColor=2F333A)](https://www.python.org/)
+[![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=F7DF1E&labelColor=2F333A)](https://www.javascript.com)
+[![Java](https://img.shields.io/static/v1?label=&message=Java&color=437291&logo=java&logoColor=white&labelColor=2F333A)](https://www.java.com/)
+... _[and more]_
 
 ### Development Environment
 
-[![Ubuntu](https://img.shields.io/static/v1?label=&message=Ubuntu&color=E95420&logo=Ubuntu&labelColor=2F333A)](https://ubuntu.com/pro)
-[![Bash](https://img.shields.io/static/v1?label=&message=GNU%20Bash&color=4EAA25&logo=GNU%20Bash&labelColor=2F333A)](https://www.gnu.org/software/bash/)
-[![Docker](https://img.shields.io/static/v1?label=&message=Docker%20Profile&color=2496ED&logo=Docker&labelColor=2F333A)](https://hub.docker.com/u/ralexrivero)
-[![Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=Git&logoColor=F05032&labelColor=2F333A)](https://git-scm.com/)
+[![RedHat](https://img.shields.io/static/v1?label=&message=Red%20Hat&color=EE0000&logo=redhat&logoColor=white&labelColor=2F333A)](https://www.redhat.com/)
+[![Bash](https://img.shields.io/static/v1?label=&message=GNU%20Bash&color=4EAA25&logo=gnubash&logoColor=white&labelColor=2F333A)](https://www.gnu.org/software/bash/)
+[![Docker](https://img.shields.io/static/v1?label=&message=Docker%20Profile&color=2496ED&logo=docker&logoColor=white&labelColor=2F333A)](https://hub.docker.com/u/ralexrivero)
+[![Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=F05032&labelColor=2F333A)](https://git-scm.com/)
+[![AWS](https://img.shields.io/static/v1?label=&message=AWS&color=232F3E&logo=amazonwebservices&logoColor=white&labelColor=2F333A)](https://aws.amazon.com/)
+... _[and more]_
 
 ### Front-end & Back-end
 
-[![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=7952B3&logo=Bootstrap&labelColor=2F333A)](https://getbootstrap.com/)
-[![React.js](https://img.shields.io/static/v1?label=&message=React.js&color=61DAFB&logo=React&labelColor=2F333A)](https://react.dev/)
-[![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=Django&logoColor=092E20&labelColor=F5F5F5)](https://www.djangoproject.com/)
+[![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=7952B3&logo=bootstrap&logoColor=white&labelColor=2F333A)](https://getbootstrap.com/)
+[![React.js](https://img.shields.io/static/v1?label=&message=React.js&color=61DAFB&logo=react&logoColor=white&labelColor=2F333A)](https://react.dev/)
+[![FastAPI](https://img.shields.io/static/v1?label=&message=FastAPI&color=009688&logo=fastapi&logoColor=white&labelColor=2F333A)](https://fastapi.tiangolo.com/)
+[![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=django&logoColor=092E20&labelColor=F5F5F5)](https://www.djangoproject.com/)
+[![Spring](https://img.shields.io/static/v1?label=&message=Spring&color=6DB33F&logo=spring&logoColor=white&labelColor=2F333A)](https://spring.io/)
+... _[and more]_
 
 ### Database Management Systems
 
-[![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=MySQL&labelColor=F5F5F5)](https://www.mysql.com/)
-[![Postgres](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=4169E1&labelColor=2F333A)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=MongoDB&labelColor=2F333A)](https://www.mongodb.com/)
-
+[![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=mysql&logoColor=4479A1&labelColor=F5F5F5)](https://www.mysql.com/)
+[![Postgres](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=4169E1&logo=postgresql&logoColor=4169E1&labelColor=2F333A)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=mongodb&logoColor=white&labelColor=2F333A)](https://www.mongodb.com/)
+... _[and more]_
 ---
 
 ## GitHub Insights
