@@ -28,7 +28,6 @@ I may not have all the answers, but I'll always ask the right questions. Committ
 [![Python](https://img.shields.io/static/v1?label=&message=Python&color=FFD43B&logo=python&logoColor=white&labelColor=2F333A)](https://www.python.org/)
 [![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=F7DF1E&labelColor=2F333A)](https://www.javascript.com)
 [![Java](https://img.shields.io/static/v1?label=&message=Java&color=437291&logo=java&logoColor=white&labelColor=2F333A)](https://www.java.com/)
-... _[and more]_
 
 ### Development Environment
 
@@ -37,7 +36,6 @@ I may not have all the answers, but I'll always ask the right questions. Committ
 [![Docker](https://img.shields.io/static/v1?label=&message=Docker%20Profile&color=2496ED&logo=docker&logoColor=white&labelColor=2F333A)](https://hub.docker.com/u/ralexrivero)
 [![Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=F05032&labelColor=2F333A)](https://git-scm.com/)
 [![AWS](https://img.shields.io/static/v1?label=&message=AWS&color=232F3E&logo=amazonwebservices&logoColor=white&labelColor=2F333A)](https://aws.amazon.com/)
-... _[and more]_
 
 ### Front-end & Back-end
 
@@ -46,14 +44,12 @@ I may not have all the answers, but I'll always ask the right questions. Committ
 [![FastAPI](https://img.shields.io/static/v1?label=&message=FastAPI&color=009688&logo=fastapi&logoColor=white&labelColor=2F333A)](https://fastapi.tiangolo.com/)
 [![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=django&logoColor=092E20&labelColor=F5F5F5)](https://www.djangoproject.com/)
 [![Spring](https://img.shields.io/static/v1?label=&message=Spring&color=6DB33F&logo=spring&logoColor=white&labelColor=2F333A)](https://spring.io/)
-... _[and more]_
 
 ### Database Management Systems
 
 [![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=mysql&logoColor=4479A1&labelColor=F5F5F5)](https://www.mysql.com/)
 [![Postgres](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=4169E1&logo=postgresql&logoColor=4169E1&labelColor=2F333A)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=mongodb&logoColor=white&labelColor=2F333A)](https://www.mongodb.com/)
-... _[and more]_
 ---
 
 ## GitHub Insights
