@@ -1,17 +1,16 @@
-# Ronald Rivero 🚀
+# Ronald Rivero
 
 > "I may not have all the answers, but I'll always ask the right questions. Committed to self-learning and fostering a growth mindset."
 
 ---
 
-## Connect with me 🌐
+## Connect with me
 
-[![Twitter](https://img.shields.io/badge/Twitter-@ralex_uy-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ralex_uy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ronald--rivero-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-rivero/)
-[![Medium](https://img.shields.io/badge/Medium-@ralexrivero-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@ralexrivero)
+
 ---
 
-## Soft Skills 🧠
+## Soft Skills
 
 - **Agile Mindset**: Adaptability and flexibility in ever-changing environments.
 - **Continuous Learning**: Relentless commitment to personal growth and knowledge acquisition.
@@ -21,7 +20,7 @@
 
 ---
 
-## Tech Stack 💻
+## Tech Stack
 
 ### Programming Languages
 
@@ -55,7 +54,7 @@
 
 ---
 
-## GitHub Insights 📊
+## GitHub Insights
 
 <div align="center">
     <img width="49%" src=https://github-readme-stats.vercel.app/api?username=ralexrivero&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true&rank_icon=percentile><!-- stats profile -->
