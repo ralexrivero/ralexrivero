@@ -4,8 +4,6 @@
 
 ---
 
-## Tech Stack
-
 ### Programming Languages
 
 [![C](https://img.shields.io/static/v1?label=&message=C%20Language&color=5C6BC0&logo=c&logoColor=white&labelColor=2F333A)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
