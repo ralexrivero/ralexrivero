@@ -35,13 +35,11 @@
 
 ---
 
-## Soft Skills
+## Tech Lead & Innovator
 
-- **Agile Mindset**: Adaptability and flexibility in ever-changing environments.
-- **Continuous Learning**: Relentless commitment to personal growth and knowledge acquisition.
-- **Embracing Failure**: Viewing setbacks as learning opportunities and not as defeats.
-- **Analytical Thinking**: Ability to dissect situations and make data-driven decisions.
-- **Resilience**: Perseverance in the face of challenges and capacity to recover quickly from difficulties.
+- **Driving Technical Excellence**: Setting high engineering standards, enforcing best practices, and mentoring teams to consistently deliver clean, scalable, and maintainable solutions.
+- **Delivering Innovation**: Transforming complex ideas into impactful products by leveraging emerging technologies and fostering a culture of experimentation.
+- **Project Leadership**: Guiding cross-functional teams from concept to deployment with clear vision, strategic planning, and decisive execution.
 
 ---
 ## GitHub Insights
