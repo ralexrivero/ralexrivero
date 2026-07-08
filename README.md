@@ -42,12 +42,3 @@
 - **Project Leadership**: Guiding cross-functional teams from concept to deployment with clear vision, strategic planning, and decisive execution.
 
 ---
-## GitHub Insights
-
-<div align="center">
-    <img width="49%" src=https://github-readme-stats.vercel.app/api?username=ralexrivero&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true&rank_icon=percentile><!-- stats profile -->
-    <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=ralexrivero&theme=dark"><!-- current streak-->
-    <img align="center" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ralexrivero&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true&hide_title=true">
-</div>
-
----
